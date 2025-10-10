@@ -45,7 +45,6 @@ The DLMS Server follows a layered architecture that separates concerns across da
 
 The following diagram illustrates the relationships and structure of the DLMS database:
 
-![DLMS Database Schema](Schema/Database_Schema.png)
 
 ![DLMS Server Architecture](Schema/Database_Schema.png)
 
