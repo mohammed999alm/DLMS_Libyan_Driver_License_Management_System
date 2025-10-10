@@ -39,6 +39,14 @@ Key Features
 The DLMS Server follows a layered architecture that separates concerns across data access, business logic, and service orchestration. Below is a visual representation of the system:
 
 ![DLMS Server Architecture](docs/DLMS_Architecture.png)
+
+
+### 📊 Schema Diagram
+
+The following diagram illustrates the relationships and structure of the DLMS database:
+
+![DLMS Database Schema](Schema/Database_Schema.png)
+
 ![DLMS Server Architecture](Schema/Database_Schema.png)
 
 
