@@ -1,0 +1,57 @@
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_BusinessLogicLayer.deps.json
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_BusinessLogicLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_BusinessLogicLayer.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_DataAccessLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\bin\Debug\net8.0\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_DataAccessLayer.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_DTO.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\bin\Debug\net8.0\GlobalUtility.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_Bus.1E580892.Up2Date
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\obj\Debug\net8.0\refint\DLMS_BusinessLogicLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_BusinessLogicLayer\obj\Debug\net8.0\ref\DLMS_BusinessLogicLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_BusinessLogicLayer.deps.json
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_BusinessLogicLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_BusinessLogicLayer.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_DataAccessLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\bin\Debug\net8.0\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_DataAccessLayer.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_DTO.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\bin\Debug\net8.0\GlobalUtility.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_Bus.1E580892.Up2Date
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\obj\Debug\net8.0\refint\DLMS_BusinessLogicLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_BusinessLogicLayer\obj\Debug\net8.0\ref\DLMS_BusinessLogicLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_BusinessLogicLayer.deps.json
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_BusinessLogicLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_BusinessLogicLayer.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_DataAccessLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\bin\Debug\net8.0\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_DataAccessLayer.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\bin\Debug\net8.0\DLMS_DTO.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\bin\Debug\net8.0\GlobalUtility.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_Bus.1E580892.Up2Date
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\obj\Debug\net8.0\refint\DLMS_BusinessLogicLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\obj\Debug\net8.0\DLMS_BusinessLogicLayer.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_BusinessLogicLayer\obj\Debug\net8.0\ref\DLMS_BusinessLogicLayer.dll

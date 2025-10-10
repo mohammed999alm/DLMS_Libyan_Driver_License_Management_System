@@ -1,0 +1,1576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\applicationtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\applicationtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\logs\\transactionlog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:logs\\transactionlog.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\locallicenseapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\locallicenseapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\dlms_server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:dlms_server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\licenseissuereasoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\licenseissuereasoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\municipalitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\municipalitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\internationallicensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\internationallicensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\testtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\testtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\licensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\licensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\licenseclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\licenseclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\logs\\logfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:logs\\logfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\validatorclasses\\contactvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:validatorclasses\\contactvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\validatorclasses\\validateresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:validatorclasses\\validateresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\controllers\\detainedlicensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:controllers\\detainedlicensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\fileuploadoperationfiltercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:fileuploadoperationfiltercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\extensions\\nullableextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:extensions\\nullableextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\dlms_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:dlms_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\dlms_server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:dlms_server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\.nuget\\packages\\ironpdf\\2025.7.17\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\logs\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:logs\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\errorlog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:errorlog.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|c:\\users\\nitro 5\\source\\repos\\driving license management system server\\dlms server latest latest version\\copy\\dlms server service provider\\dlms_server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EF80DC7-9589-4969-A966-5F0B5DF8F4C7}|DLMS_SERVER.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\DLMS_DataAccessLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\ApplicationTypeDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\PDF_Builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\ApplicationType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\DriverDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\LicenseDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\PersonDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\PasswordHasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\Util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\Validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\LocalLicenseApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\LoggerUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\LocalLicenseApplicationDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TestAppointmentDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\InternationalLicenseDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\InternationalLicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TransactionUnits\\RequestTransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TransactionUnits\\LocalLicenseAppTransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TransactionUnits\\PersonTransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\DLMS_BusinessLogicLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\License.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\LicenseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\LicenseClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\TestTypeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\TestType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\TestAppointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\ApplicationStatusType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TestTypeDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\ApplicationDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\LicenseIssueReason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\LocalLicenseApplicationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\ApplicationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\RequestDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\ApplicationStatusTypeDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\RequestStatusDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TestDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\UserDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\RoleDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\LicenseClassDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\CitizenRequestStatusDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\RequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\RequestStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\DataAccessSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\EmailAddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Municipality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\ServerJsonCustomObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\DLMS_BusinessLogicLayer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\LicenseIssueReasonDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\LicenseClassDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TrasnsactionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\DetainedLicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\DetainedLicenseDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\MunicipalityDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\GlobalUtility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\PhoneDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\CountryDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\EmailAddressDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DLMS_DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\DLMS_DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\DLMS_DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\DLMS_DataAccessLayer.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\DLMS_DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T19:49:20.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocalLicenseApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\LocalLicenseApplicationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LocalLicenseApplicationController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\LocalLicenseApplicationController.cs",
+              "RelativeToolTip": "Controllers\\LocalLicenseApplicationController.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAAAAEIBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:55:34.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionLog.txt",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Logs\\TransactionLog.txt",
+              "RelativeDocumentMoniker": "Logs\\TransactionLog.txt",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Logs\\TransactionLog.txt",
+              "RelativeToolTip": "Logs\\TransactionLog.txt",
+              "ViewState": "AgIAAJUYAAAAAAAAAAAAAJUYAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-16T13:22:42.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "Controllers\\ApplicationController.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAAAJMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:31:07.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationTypeDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\ApplicationTypeDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\ApplicationTypeDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\ApplicationTypeDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\ApplicationTypeDataAccess.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAAAOkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:35:08.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAIYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:41:44.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PDF_Builder.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\PDF_Builder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\GlobalUtility\\PDF_Builder.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\PDF_Builder.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\GlobalUtility\\PDF_Builder.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:07:32.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T19:36:19.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\ApplicationTypeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationTypeController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\ApplicationTypeController.cs",
+              "RelativeToolTip": "Controllers\\ApplicationTypeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:48:40.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationType.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\ApplicationType.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\ApplicationType.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\ApplicationType.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\ApplicationType.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwFAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:56:19.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DriverDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\DriverDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\DriverDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\DriverDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\DriverDataAccess.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAuwNEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:39:39.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LicenseDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\LicenseDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\LicenseDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\LicenseDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\LicenseDataAccess.cs",
+              "ViewState": "AgIAAGgBAAAAAAAAAAAqwH4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:40:20.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PersonDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\PersonDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\PersonDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\PersonDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\PersonDataAccess.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAuwAkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:52:09.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\GlobalUtility\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\PasswordHasher.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\GlobalUtility\\PasswordHasher.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T06:33:11.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Util.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\Util.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\GlobalUtility\\Util.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\Util.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\GlobalUtility\\Util.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:35:23.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\Validator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\GlobalUtility\\Validator.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\Validator.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\GlobalUtility\\Validator.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T02:55:23.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Application.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Application.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Application.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Application.cs",
+              "ViewState": "AgIAAHsBAAAAAAAAAAAAAIoBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:59:30.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LocalLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\LocalLicenseApplication.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\LocalLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\LocalLicenseApplication.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\LocalLicenseApplication.cs",
+              "ViewState": "AgIAANYBAAAAAAAAAAAqwOkBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:07:08.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DLMS_SERVER.http",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\DLMS_SERVER.http",
+              "RelativeDocumentMoniker": "DLMS_SERVER.http",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\DLMS_SERVER.http",
+              "RelativeToolTip": "DLMS_SERVER.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-20T04:45:11.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LoggerUtil.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\LoggerUtil.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\GlobalUtility\\LoggerUtil.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\LoggerUtil.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\GlobalUtility\\LoggerUtil.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAqwKsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:44:46.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAqwIgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T01:05:28.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\RequestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RequestController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\RequestController.cs",
+              "RelativeToolTip": "Controllers\\RequestController.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:03:02.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LocalLicenseApplicationDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\LocalLicenseApplicationDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\LocalLicenseApplicationDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\LocalLicenseApplicationDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\LocalLicenseApplicationDataAccess.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAF8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:46:23.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TestAppointmentDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TestAppointmentDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\TestAppointmentDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TestAppointmentDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\TestAppointmentDataAccess.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:38:24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:33:58.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Controllers\\CountryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T03:28:42.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MunicipalityController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\MunicipalityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MunicipalityController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\MunicipalityController.cs",
+              "RelativeToolTip": "Controllers\\MunicipalityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T03:38:12.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InternationalLicenseController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\InternationalLicenseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InternationalLicenseController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\InternationalLicenseController.cs",
+              "RelativeToolTip": "Controllers\\InternationalLicenseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:11:45.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LicenseIssueReasonController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\LicenseIssueReasonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LicenseIssueReasonController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\LicenseIssueReasonController.cs",
+              "RelativeToolTip": "Controllers\\LicenseIssueReasonController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:35:19.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Request.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Request.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Request.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Request.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAAAQBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:09:24.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\TestTypeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestTypeController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\TestTypeController.cs",
+              "RelativeToolTip": "Controllers\\TestTypeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:20:39.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:34:20.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LicenseClassController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\LicenseClassController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LicenseClassController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\LicenseClassController.cs",
+              "RelativeToolTip": "Controllers\\LicenseClassController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:30:55.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Person.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Person.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Person.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Person.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAAAHsCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:56:59.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAAAPkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:04:59.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LicenseController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\LicenseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LicenseController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\LicenseController.cs",
+              "RelativeToolTip": "Controllers\\LicenseController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:43:14.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\User.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\User.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\User.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAcwHsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:00:12.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T19:35:59.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "InternationalLicenseDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\InternationalLicenseDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\InternationalLicenseDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\InternationalLicenseDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\InternationalLicenseDataAccess.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAwwDgBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:48:01.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "InternationalLicense.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\InternationalLicense.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\InternationalLicense.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\InternationalLicense.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\InternationalLicense.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAcwOMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:00:50.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RequestTransactions.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TransactionUnits\\RequestTransactions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\TransactionUnits\\RequestTransactions.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TransactionUnits\\RequestTransactions.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\TransactionUnits\\RequestTransactions.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:17:30.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "LocalLicenseAppTransactions.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TransactionUnits\\LocalLicenseAppTransactions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\TransactionUnits\\LocalLicenseAppTransactions.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TransactionUnits\\LocalLicenseAppTransactions.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\TransactionUnits\\LocalLicenseAppTransactions.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAALYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:42:54.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PersonTransactions.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TransactionUnits\\PersonTransactions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\TransactionUnits\\PersonTransactions.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TransactionUnits\\PersonTransactions.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\TransactionUnits\\PersonTransactions.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAALgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:42:13.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DLMS_BusinessLogicLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\DLMS_BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\DLMS_BusinessLogicLayer.csproj",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\DLMS_BusinessLogicLayer.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\DLMS_BusinessLogicLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T20:30:39.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "License.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\License.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\License.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\License.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\License.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAiwGwBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:06:28.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LicenseDto.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\LicenseDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DTO\\LicenseDto.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\LicenseDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DTO\\LicenseDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:42:49.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LicenseClass.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\LicenseClass.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\LicenseClass.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\LicenseClass.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\LicenseClass.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAKYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:05:01.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TestTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\TestTypeDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DTO\\TestTypeDto.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\TestTypeDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DTO\\TestTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T22:58:12.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TestType.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\TestType.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\TestType.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\TestType.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\TestType.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:03:30.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TestAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\TestAppointment.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\TestAppointment.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\TestAppointment.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\TestAppointment.cs",
+              "ViewState": "AgIAAGgBAAAAAAAAAAAmwHkBAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:02:42.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ApplicationStatusType.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\ApplicationStatusType.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\ApplicationStatusType.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\ApplicationStatusType.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\ApplicationStatusType.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:57:31.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "TestTypeDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TestTypeDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\TestTypeDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TestTypeDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\TestTypeDataAccess.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJ0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:37:22.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LogFile.txt",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Logs\\LogFile.txt",
+              "RelativeDocumentMoniker": "Logs\\LogFile.txt",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Logs\\LogFile.txt",
+              "RelativeToolTip": "Logs\\LogFile.txt",
+              "ViewState": "AgIAAKQBAAAAAAAAAAAAALYBAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-03T23:59:37.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ApplicationDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\ApplicationDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\ApplicationDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\ApplicationDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\ApplicationDataAccess.cs",
+              "ViewState": "AgIAAAcCAAAAAAAAAAAAAB8CAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:32:00.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Driver.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Driver.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Driver.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Driver.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:00:07.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "LicenseIssueReason.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\LicenseIssueReason.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\LicenseIssueReason.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\LicenseIssueReason.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\LicenseIssueReason.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:05:57.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ContactValidator.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\ValidatorClasses\\ContactValidator.cs",
+              "RelativeDocumentMoniker": "ValidatorClasses\\ContactValidator.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\ValidatorClasses\\ContactValidator.cs",
+              "RelativeToolTip": "ValidatorClasses\\ContactValidator.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:26:00.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "LocalLicenseApplicationDto.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\LocalLicenseApplicationDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DTO\\LocalLicenseApplicationDto.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\LocalLicenseApplicationDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DTO\\LocalLicenseApplicationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:17:54.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ValidateResult.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\ValidatorClasses\\ValidateResult.cs",
+              "RelativeDocumentMoniker": "ValidatorClasses\\ValidateResult.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\ValidatorClasses\\ValidateResult.cs",
+              "RelativeToolTip": "ValidatorClasses\\ValidateResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:33:25.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ApplicationDto.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\ApplicationDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DTO\\ApplicationDto.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\ApplicationDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DTO\\ApplicationDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:53:31.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "Controllers\\ImageController.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAwM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T03:42:33.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "RequestDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\RequestDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\RequestDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\RequestDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\RequestDataAccess.cs",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAcwIgBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:51:52.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DetainedLicenseController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\DetainedLicenseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DetainedLicenseController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\DetainedLicenseController.cs",
+              "RelativeToolTip": "Controllers\\DetainedLicenseController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:28:01.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DriverController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\DriverController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DriverController.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Controllers\\DriverController.cs",
+              "RelativeToolTip": "Controllers\\DriverController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:24:51.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Test.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Test.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Test.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Test.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:04:03.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ApplicationStatusTypeDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\ApplicationStatusTypeDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\ApplicationStatusTypeDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\ApplicationStatusTypeDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\ApplicationStatusTypeDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:33:29.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileUploadOperationFiltercs.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\FileUploadOperationFiltercs.cs",
+              "RelativeDocumentMoniker": "FileUploadOperationFiltercs.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\FileUploadOperationFiltercs.cs",
+              "RelativeToolTip": "FileUploadOperationFiltercs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T04:53:30.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "RequestStatusDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\RequestStatusDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\RequestStatusDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\RequestStatusDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\RequestStatusDataAccess.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:54:13.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "TestDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TestDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\TestDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TestDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\TestDataAccess.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAAAPEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:36:36.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "UserDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\UserDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\UserDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\UserDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\UserDataAccess.cs",
+              "ViewState": "AgIAAIsBAAAAAAAAAAAiwKEBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:04:19.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Role.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Role.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Role.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Role.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:44:01.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "RoleDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\RoleDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\RoleDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\RoleDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\RoleDataAccess.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:41:42.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "LicenseClassDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\LicenseClassDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\LicenseClassDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\LicenseClassDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\LicenseClassDataAccess.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAADwv8sAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:43:38.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "CitizenRequestStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\CitizenRequestStatusDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DTO\\CitizenRequestStatusDto.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\CitizenRequestStatusDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DTO\\CitizenRequestStatusDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:08:30.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "RequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\RequestDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DTO\\RequestDto.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\RequestDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DTO\\RequestDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T21:00:19.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "RequestStatus.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\RequestStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\RequestStatus.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\RequestStatus.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\RequestStatus.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:08:32.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NullableExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Extensions\\NullableExtentions.cs",
+              "RelativeDocumentMoniker": "Extensions\\NullableExtentions.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Extensions\\NullableExtentions.cs",
+              "RelativeToolTip": "Extensions\\NullableExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:59:27.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DLMS_SERVER.csproj",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\DLMS_SERVER.csproj",
+              "RelativeDocumentMoniker": "DLMS_SERVER.csproj",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\DLMS_SERVER.csproj",
+              "RelativeToolTip": "DLMS_SERVER.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T22:06:12.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "DataAccessSettings.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\DataAccessSettings.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\DataAccessSettings.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\DataAccessSettings.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\DataAccessSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:31:10.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Country.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Country.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Country.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:31:17.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "EmailAddress.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\EmailAddress.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\EmailAddress.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\EmailAddress.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\EmailAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:59:11.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Municipality.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Municipality.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Municipality.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Municipality.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Municipality.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:31:45.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ServerJsonCustomObject.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\ServerJsonCustomObject.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DTO\\ServerJsonCustomObject.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\ServerJsonCustomObject.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DTO\\ServerJsonCustomObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:57:34.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DLMS_SERVER",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\DLMS_SERVER.csproj",
+              "RelativeDocumentMoniker": "DLMS_SERVER.csproj",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\DLMS_SERVER.csproj",
+              "RelativeToolTip": "DLMS_SERVER.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-01T06:17:04.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "DLMS_BusinessLogicLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\DLMS_BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\DLMS_BusinessLogicLayer.csproj",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\DLMS_BusinessLogicLayer.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\DLMS_BusinessLogicLayer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-01T06:13:05.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\.nuget\\packages\\ironpdf\\2025.7.17\\README.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\ironpdf\\2025.7.17\\README.txt",
+              "ToolTip": "C:\\Users\\nitro 5\\.nuget\\packages\\ironpdf\\2025.7.17\\README.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\ironpdf\\2025.7.17\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-30T02:09:12.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "LicenseIssueReasonDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\LicenseIssueReasonDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\LicenseIssueReasonDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\LicenseIssueReasonDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\LicenseIssueReasonDataAccess.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:44:54.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "LicenseClassDto.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\LicenseClassDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DTO\\LicenseClassDto.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DTO\\LicenseClassDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DTO\\LicenseClassDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:41:10.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "TrasnsactionService.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TrasnsactionService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\TrasnsactionService.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\TrasnsactionService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\TrasnsactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:33:42.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "DetainedLicense.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\DetainedLicense.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\DetainedLicense.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\DetainedLicense.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\DetainedLicense.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAACBjwNgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:01:45.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "DetainedLicenseDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\DetainedLicenseDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\DetainedLicenseDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\DetainedLicenseDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\DetainedLicenseDataAccess.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAACBjwPoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:50:06.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "MunicipalityDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\MunicipalityDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\MunicipalityDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\MunicipalityDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\MunicipalityDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:24:26.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "test.txt",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Logs\\test.txt",
+              "RelativeDocumentMoniker": "Logs\\test.txt",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Logs\\test.txt",
+              "RelativeToolTip": "Logs\\test.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-16T15:33:59.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "GlobalUtility.csproj",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\GlobalUtility.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\GlobalUtility\\GlobalUtility.csproj",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\GlobalUtility\\GlobalUtility.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\GlobalUtility\\GlobalUtility.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T21:55:46.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "errorLog.txt",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\errorLog.txt",
+              "RelativeDocumentMoniker": "errorLog.txt",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\errorLog.txt",
+              "RelativeToolTip": "errorLog.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-03T17:46:59.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Phone.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Phone.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_BusinessLogicLayer\\Phone.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_BusinessLogicLayer\\Phone.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAEwGcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:58:41.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "PhoneDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\PhoneDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\PhoneDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\PhoneDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\PhoneDataAccess.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAApwDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:03:08.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "CountryDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\CountryDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\CountryDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\CountryDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\CountryDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:27:25.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "EmailAddressDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\EmailAddressDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DLMS_DataAccessLayer\\EmailAddressDataAccess.cs",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS_DataAccessLayer\\EmailAddressDataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DLMS_DataAccessLayer\\EmailAddressDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:03:46.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nitro 5\\source\\repos\\Driving license management system server\\DLMS Server Latest Latest Version\\Copy\\DLMS Server Service Provider\\DLMS_SERVER\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T19:36:09.701Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

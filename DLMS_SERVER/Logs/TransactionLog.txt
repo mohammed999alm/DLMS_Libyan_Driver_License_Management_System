@@ -1,0 +1,6505 @@
+-------------------------------------
+ 2025-08-16 15:22:20.4918 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 31,
+  "NationalNumber": "90000000222",
+  "FirstName": "سامر",
+  "SecondName": "أحمد",
+  "ThirdName": "علي",
+  "LastName": "اليان",
+  "FullName": "سامر أحمد علي اليان",
+  "DateOfBirth": "1990-06-09T23:35:20",
+  "Gender": "ذكر",
+  "Address": "سوق الجمعة شارع 15 الطير",
+  "NationalityID": 97,
+  "MunicipalityID": 88,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "سوق الجمعة",
+  "ImagePath": null,
+  "Age": 35
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "90000000222",
+  "FirstName": "سامر",
+  "SecondName": "أحمد",
+  "ThirdName": "علي",
+  "LastName": "اليان",
+  "FullName": "سامر أحمد علي اليان",
+  "DateOfBirth": "1990-06-09T23:35:20",
+  "Gender": "ذكر",
+  "Address": "تاجوراء المراونة",
+  "NationalityID": 97,
+  "MunicipalityID": 61,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": null,
+  "Age": 35
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-16 15:27:55.8127 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 31,
+  "NationalNumber": "90000000222",
+  "FirstName": "سامر",
+  "SecondName": "أحمد",
+  "ThirdName": "علي",
+  "LastName": "اليان",
+  "FullName": "سامر أحمد علي اليان",
+  "DateOfBirth": "1990-06-09T23:35:20",
+  "Gender": "ذكر",
+  "Address": "تاجوراء المراونة",
+  "NationalityID": 97,
+  "MunicipalityID": 88,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "سوق الجمعة",
+  "ImagePath": null,
+  "Age": 35
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "90000000222",
+  "FirstName": "سامر",
+  "SecondName": "أحمد",
+  "ThirdName": "علي",
+  "LastName": "اليان",
+  "FullName": "سامر أحمد علي اليان",
+  "DateOfBirth": "1990-06-09T23:35:20",
+  "Gender": "ذكر",
+  "Address": "تاجوراء المراونة",
+  "NationalityID": 97,
+  "MunicipalityID": 61,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": null,
+  "Age": 35
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-16 15:28:22.4348 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 31,
+  "NationalNumber": "90000000222",
+  "FirstName": "سامر",
+  "SecondName": "أحمد",
+  "ThirdName": "علي",
+  "LastName": "اليان",
+  "FullName": "سامر أحمد علي اليان",
+  "DateOfBirth": "1990-06-09T23:35:20",
+  "Gender": "ذكر",
+  "Address": "تاجوراء المراونة",
+  "NationalityID": 97,
+  "MunicipalityID": 88,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "سوق الجمعة",
+  "ImagePath": null,
+  "Age": 35
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "90000000222",
+  "FirstName": "سامر",
+  "SecondName": "أحمد",
+  "ThirdName": "علي",
+  "LastName": "اليان",
+  "FullName": "سامر أحمد علي اليان",
+  "DateOfBirth": "1990-06-09T23:35:20",
+  "Gender": "ذكر",
+  "Address": "تاجوراء المراونة",
+  "NationalityID": 97,
+  "MunicipalityID": 96,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": null,
+  "Age": 35
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+
+-------------------------------------
+ 2025-08-16 15:37:20.6941 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 31,
+  "NationalNumber": "90000000222",
+  "FirstName": "سامر",
+  "SecondName": "أحمد",
+  "ThirdName": "علي",
+  "LastName": "اليان",
+  "FullName": "سامر أحمد علي اليان",
+  "DateOfBirth": "1990-06-09T23:35:20",
+  "Gender": "ذكر",
+  "Address": "تاجوراء المراونة",
+  "NationalityID": 97,
+  "MunicipalityID": 88,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "سوق الجمعة",
+  "ImagePath": null,
+  "Age": 35
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "90000000222",
+  "FirstName": "سامر",
+  "SecondName": "أحمد",
+  "ThirdName": "علي",
+  "LastName": "اليان",
+  "FullName": "سامر أحمد علي اليان",
+  "DateOfBirth": "1990-06-09T23:35:20",
+  "Gender": "ذكر",
+  "Address": "تاجوراء المراونة",
+  "NationalityID": 97,
+  "MunicipalityID": 61,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": null,
+  "Age": 35
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-16 15:43:34.4197 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "12797489324",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57.39",
+  "Gender": "ذكر",
+  "Address": "طرابلس عينزارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "12797489324..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "12797489324",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": null,
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-16 16:08:53.4251 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 31,
+  "NationalNumber": "90000000222",
+  "FirstName": "سامر",
+  "SecondName": "أحمد",
+  "ThirdName": "علي",
+  "LastName": "اليان",
+  "FullName": "سامر أحمد علي اليان",
+  "DateOfBirth": "1990-06-09T23:35:20",
+  "Gender": "ذكر",
+  "Address": "تاجوراء المراونة",
+  "NationalityID": 97,
+  "MunicipalityID": 61,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "تاجوراء",
+  "ImagePath": null,
+  "Age": 35
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "90000000222",
+  "FirstName": "سامر",
+  "SecondName": "أحمد",
+  "ThirdName": "علي",
+  "LastName": "اليان",
+  "FullName": "سامر أحمد علي اليان",
+  "DateOfBirth": "1990-06-09T23:35:20",
+  "Gender": "ذكر",
+  "Address": "تاجوراء المراونة",
+  "NationalityID": 97,
+  "MunicipalityID": 61,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "90000000222..jpg",
+  "Age": 35
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-20 04:05:32.6221 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Request
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Request
+Old State =>
+{
+  "ID": 14,
+  "NationalNumber": "1199091234156",
+  "person": {
+    "ID": 107,
+    "NationalNumber": "1199091234156",
+    "FirstName": "جمال",
+    "SecondName": "محمد",
+    "ThirdName": "عبدالعزيز",
+    "LastName": "القعود",
+    "FullName": "جمال محمد عبدالعزيز القعود",
+    "DateOfBirth": "1990-09-09T00:00:00",
+    "Gender": "Female",
+    "Address": "طرابلس تاجوراء",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": null,
+    "Age": 34
+  },
+  "RequestTypeID": 4,
+  "LicenseClassID": null,
+  "LicenseID": 87,
+  "PhoneNumber": null,
+  "Email": null,
+  "license": {
+    "ID": 87,
+    "ApplicationID": 140,
+    "application": {
+      "ID": 140,
+      "PersonID": 107,
+      "person": {
+        "ID": 107,
+        "NationalNumber": "1199091234156",
+        "FirstName": "جمال",
+        "SecondName": "محمد",
+        "ThirdName": "عبدالعزيز",
+        "LastName": "القعود",
+        "FullName": "جمال محمد عبدالعزيز القعود",
+        "DateOfBirth": "1990-09-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طرابلس تاجوراء",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": null,
+        "Age": 34
+      },
+      "Type": "تقديم طلب استخراج رخصة بدل تالف ",
+      "TypeID": 3,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-08-15T17:24:56.39",
+      "LastStatusDate": "2025-08-15T17:25:34.79",
+      "license": null,
+      "internationalLicense": null,
+      "RequestID": 10,
+      "request": null
+    },
+    "DriverID": 10,
+    "driver": {
+      "ID": 10,
+      "PersonID": 107,
+      "person": {
+        "ID": 107,
+        "NationalNumber": "1199091234156",
+        "FirstName": "جمال",
+        "SecondName": "محمد",
+        "ThirdName": "عبدالعزيز",
+        "LastName": "القعود",
+        "FullName": "جمال محمد عبدالعزيز القعود",
+        "DateOfBirth": "1990-09-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طرابلس تاجوراء",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": null,
+        "Age": 34
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-08-12T00:00:51.877",
+      "NumberActiveLicense": 0
+    },
+    "LicenseClassID": 2,
+    "licenseClass": {
+      "ID": 2,
+      "Name": "فئة أولى (ب)",
+      "Description": "رخصة قيادة السيارات الصغيرة",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "بدل تالف",
+    "IssueDate": "2025-08-15T17:25:34.607",
+    "ExpirationDate": "2035-08-15T17:25:34.607",
+    "IsActive": false,
+    "IsReserved": true,
+    "Notes": null,
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": 85
+  },
+  "RequestStatusID": 1,
+  "status": {
+    "ID": 1,
+    "Name": "موافق عليه"
+  },
+  "licenseClass": null,
+  "requestType": {
+    "ID": 4,
+    "Fee": 12.0000,
+    "Type": "تقديم طلب استخراج رخصة بدل فاقد"
+  },
+  "FeeAmount": 12.0000,
+  "IsPaid": false,
+  "PaymentTimeStamps": null,
+  "TheTypeOfRequest": "تقديم طلب استخراج رخصة بدل فاقد",
+  "CreateDate": "2025-08-16T10:13:35.537",
+  "UpdateDate": "2025-08-16T15:37:54.24"
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 14,
+  "Timestamp": "2025-08-20T02:05:32.4838541Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Request
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-20 16:16:43.3522 | INFO | TransactionLogger
+ User: adminm1
+ Entity: LocalLicenseApplication
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = LocalLicenseApplication
+Old State =>
+{
+  "LocalAppId": 20,
+  "LicenseClassName": "فئة ثانية",
+  "LicenseClassID": 3,
+  "PassedTests": 0,
+  "appointment": null,
+  "ID": 154,
+  "PersonID": 1,
+  "person": {
+    "ID": 1,
+    "NationalNumber": "119992134354",
+    "FirstName": "محمد ",
+    "SecondName": "عبدالرزاق",
+    "ThirdName": "سالم",
+    "LastName": "المسلاتي",
+    "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+    "DateOfBirth": "1999-11-09T00:00:00",
+    "Gender": "ذكر",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "119992134354..jpg",
+    "Age": 25
+  },
+  "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+  "TypeID": 1,
+  "Status": "جديد",
+  "CreatedByUserID": 1,
+  "CreatedByUser": "AdminM1",
+  "UpdatedByUserID": null,
+  "UpdatedByUser": null,
+  "PaidFees": 12.0000,
+  "CreatedDate": "2025-08-20T15:43:35.267",
+  "LastStatusDate": null,
+  "license": {
+    "ID": 81,
+    "ApplicationID": 120,
+    "application": {
+      "ID": 120,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+      "TypeID": 1,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-08-07T03:01:48.033",
+      "LastStatusDate": "2025-08-07T07:42:08.457",
+      "license": null,
+      "internationalLicense": null,
+      "RequestID": null,
+      "request": null
+    },
+    "DriverID": 8,
+    "driver": {
+      "ID": 8,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-08-07T07:42:08.383",
+      "NumberActiveLicense": 2
+    },
+    "LicenseClassID": 1,
+    "licenseClass": {
+      "ID": 1,
+      "Name": "فئة أولى (أ)",
+      "Description": "رخصة قيادة الدراجات النارية",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "رخصة جديدة",
+    "IssueDate": "2025-08-07T07:42:08.423",
+    "ExpirationDate": "2035-08-07T07:42:08.423",
+    "IsActive": true,
+    "IsReserved": false,
+    "Notes": "يحتاج إلى إرتداء نظارات",
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": -1
+  },
+  "internationalLicense": null,
+  "RequestID": null,
+  "request": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 20,
+  "Timestamp": "2025-08-20T14:16:43.0478823Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=LocalLicenseApplication
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-20 16:17:32.7749 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Request
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Request
+Old State =>
+{
+  "ID": 17,
+  "NationalNumber": "1233456789000",
+  "person": {
+    "ID": 94,
+    "NationalNumber": "1233456789000",
+    "FirstName": "Ali",
+    "SecondName": "Ahmed",
+    "ThirdName": "Salem",
+    "LastName": "Jamil",
+    "FullName": "Ali Ahmed Salem Jamil",
+    "DateOfBirth": "1999-11-11T12:00:30",
+    "Gender": "Female",
+    "Address": "Elmashteel street",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "123456789000.jpg",
+    "Age": 25
+  },
+  "RequestTypeID": 1,
+  "LicenseClassID": 3,
+  "LicenseID": null,
+  "PhoneNumber": null,
+  "Email": null,
+  "license": null,
+  "RequestStatusID": 3,
+  "status": {
+    "ID": 3,
+    "Name": "مرفوض"
+  },
+  "licenseClass": {
+    "ID": 3,
+    "Name": "فئة ثانية",
+    "Description": "رخصة لقيادة السيارات الكبيرة والنقل",
+    "Age": 21,
+    "ValidatyLength": 6,
+    "Fees": 15.0000
+  },
+  "requestType": {
+    "ID": 1,
+    "Fee": 12.0000,
+    "Type": "تقديم طلب  استخراج رخصة محلية جديدة"
+  },
+  "FeeAmount": 12.0000,
+  "IsPaid": false,
+  "PaymentTimeStamps": null,
+  "TheTypeOfRequest": "تقديم طلب  استخراج رخصة محلية جديدة",
+  "CreateDate": "2025-08-20T04:21:19.677",
+  "UpdateDate": "2025-08-20T04:22:29.31"
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 17,
+  "Timestamp": "2025-08-20T14:17:32.7748183Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Request
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-20 16:18:37.5124 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Request
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Request
+Old State =>
+{
+  "ID": 16,
+  "NationalNumber": "1233456789000",
+  "person": {
+    "ID": 94,
+    "NationalNumber": "1233456789000",
+    "FirstName": "Ali",
+    "SecondName": "Ahmed",
+    "ThirdName": "Salem",
+    "LastName": "Jamil",
+    "FullName": "Ali Ahmed Salem Jamil",
+    "DateOfBirth": "1999-11-11T12:00:30",
+    "Gender": "Female",
+    "Address": "Elmashteel street",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "123456789000.jpg",
+    "Age": 25
+  },
+  "RequestTypeID": 1,
+  "LicenseClassID": 1,
+  "LicenseID": null,
+  "PhoneNumber": null,
+  "Email": null,
+  "license": null,
+  "RequestStatusID": 3,
+  "status": {
+    "ID": 3,
+    "Name": "مرفوض"
+  },
+  "licenseClass": {
+    "ID": 1,
+    "Name": "فئة أولى (أ)",
+    "Description": "رخصة قيادة الدراجات النارية",
+    "Age": 18,
+    "ValidatyLength": 10,
+    "Fees": 15.0000
+  },
+  "requestType": {
+    "ID": 1,
+    "Fee": 12.0000,
+    "Type": "تقديم طلب  استخراج رخصة محلية جديدة"
+  },
+  "FeeAmount": 12.0000,
+  "IsPaid": false,
+  "PaymentTimeStamps": null,
+  "TheTypeOfRequest": "تقديم طلب  استخراج رخصة محلية جديدة",
+  "CreateDate": "2025-08-20T04:13:10.247",
+  "UpdateDate": "2025-08-20T04:18:56.9"
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 16,
+  "Timestamp": "2025-08-20T14:18:37.5124343Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Request
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-20 16:18:47.9544 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Request
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Request
+Old State =>
+{
+  "ID": 13,
+  "NationalNumber": "1199091234156",
+  "person": {
+    "ID": 107,
+    "NationalNumber": "1199091234156",
+    "FirstName": "جمال",
+    "SecondName": "محمد",
+    "ThirdName": "عبدالعزيز",
+    "LastName": "القعود",
+    "FullName": "جمال محمد عبدالعزيز القعود",
+    "DateOfBirth": "1990-09-09T00:00:00",
+    "Gender": "Female",
+    "Address": "طرابلس تاجوراء",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": null,
+    "Age": 34
+  },
+  "RequestTypeID": 1,
+  "LicenseClassID": 3,
+  "LicenseID": null,
+  "PhoneNumber": null,
+  "Email": null,
+  "license": null,
+  "RequestStatusID": 4,
+  "status": {
+    "ID": 4,
+    "Name": "مكتمل"
+  },
+  "licenseClass": {
+    "ID": 3,
+    "Name": "فئة ثانية",
+    "Description": "رخصة لقيادة السيارات الكبيرة والنقل",
+    "Age": 21,
+    "ValidatyLength": 6,
+    "Fees": 15.0000
+  },
+  "requestType": {
+    "ID": 1,
+    "Fee": 12.0000,
+    "Type": "تقديم طلب  استخراج رخصة محلية جديدة"
+  },
+  "FeeAmount": 27.0000,
+  "IsPaid": true,
+  "PaymentTimeStamps": "2025-08-16T09:55:16.85",
+  "TheTypeOfRequest": "تقديم طلب  استخراج رخصة محلية جديدة",
+  "CreateDate": "2025-08-16T09:43:58.007",
+  "UpdateDate": "2025-08-16T09:55:16.85"
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 13,
+  "Timestamp": "2025-08-20T14:18:47.9544801Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Request
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-20 18:08:25.9455 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Request
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Request
+Old State =>
+{
+  "ID": 22,
+  "NationalNumber": "1233456789000",
+  "person": {
+    "ID": 94,
+    "NationalNumber": "1233456789000",
+    "FirstName": "Ali",
+    "SecondName": "Ahmed",
+    "ThirdName": "Salem",
+    "LastName": "Jamil",
+    "FullName": "Ali Ahmed Salem Jamil",
+    "DateOfBirth": "1999-11-11T12:00:30",
+    "Gender": "Female",
+    "Address": "Elmashteel street",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "123456789000.jpg",
+    "Age": 25
+  },
+  "RequestTypeID": 1,
+  "LicenseClassID": 3,
+  "LicenseID": null,
+  "PhoneNumber": null,
+  "Email": null,
+  "license": null,
+  "RequestStatusID": 3,
+  "status": {
+    "ID": 3,
+    "Name": "مرفوض"
+  },
+  "licenseClass": {
+    "ID": 3,
+    "Name": "فئة ثانية",
+    "Description": "رخصة لقيادة السيارات الكبيرة والنقل",
+    "Age": 21,
+    "ValidatyLength": 6,
+    "Fees": 15.0000
+  },
+  "requestType": {
+    "ID": 1,
+    "Fee": 12.0000,
+    "Type": "تقديم طلب  استخراج رخصة محلية جديدة"
+  },
+  "FeeAmount": 12.0000,
+  "IsPaid": false,
+  "PaymentTimeStamps": null,
+  "TheTypeOfRequest": "تقديم طلب  استخراج رخصة محلية جديدة",
+  "CreateDate": "2025-08-20T18:05:23.83",
+  "UpdateDate": "2025-08-20T18:07:12.69"
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 22,
+  "Timestamp": "2025-08-20T16:08:25.7159324Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Request
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-20 18:09:38.3999 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Request
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Request
+Old State =>
+{
+  "ID": 21,
+  "NationalNumber": "1233456789000",
+  "person": {
+    "ID": 94,
+    "NationalNumber": "1233456789000",
+    "FirstName": "Ali",
+    "SecondName": "Ahmed",
+    "ThirdName": "Salem",
+    "LastName": "Jamil",
+    "FullName": "Ali Ahmed Salem Jamil",
+    "DateOfBirth": "1999-11-11T12:00:30",
+    "Gender": "Female",
+    "Address": "Elmashteel street",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "123456789000.jpg",
+    "Age": 25
+  },
+  "RequestTypeID": 1,
+  "LicenseClassID": 3,
+  "LicenseID": null,
+  "PhoneNumber": null,
+  "Email": null,
+  "license": null,
+  "RequestStatusID": 3,
+  "status": {
+    "ID": 3,
+    "Name": "مرفوض"
+  },
+  "licenseClass": {
+    "ID": 3,
+    "Name": "فئة ثانية",
+    "Description": "رخصة لقيادة السيارات الكبيرة والنقل",
+    "Age": 21,
+    "ValidatyLength": 6,
+    "Fees": 15.0000
+  },
+  "requestType": {
+    "ID": 1,
+    "Fee": 12.0000,
+    "Type": "تقديم طلب  استخراج رخصة محلية جديدة"
+  },
+  "FeeAmount": 27.0000,
+  "IsPaid": false,
+  "PaymentTimeStamps": null,
+  "TheTypeOfRequest": "تقديم طلب  استخراج رخصة محلية جديدة",
+  "CreateDate": "2025-08-20T16:48:17.727",
+  "UpdateDate": "2025-08-20T16:50:42.053"
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 21,
+  "Timestamp": "2025-08-20T16:09:38.3998997Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Request
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-20 18:09:53.3489 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Request
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Request
+Old State =>
+{
+  "ID": 20,
+  "NationalNumber": "1233456789000",
+  "person": {
+    "ID": 94,
+    "NationalNumber": "1233456789000",
+    "FirstName": "Ali",
+    "SecondName": "Ahmed",
+    "ThirdName": "Salem",
+    "LastName": "Jamil",
+    "FullName": "Ali Ahmed Salem Jamil",
+    "DateOfBirth": "1999-11-11T12:00:30",
+    "Gender": "Female",
+    "Address": "Elmashteel street",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "123456789000.jpg",
+    "Age": 25
+  },
+  "RequestTypeID": 1,
+  "LicenseClassID": 3,
+  "LicenseID": null,
+  "PhoneNumber": null,
+  "Email": null,
+  "license": null,
+  "RequestStatusID": 3,
+  "status": {
+    "ID": 3,
+    "Name": "مرفوض"
+  },
+  "licenseClass": {
+    "ID": 3,
+    "Name": "فئة ثانية",
+    "Description": "رخصة لقيادة السيارات الكبيرة والنقل",
+    "Age": 21,
+    "ValidatyLength": 6,
+    "Fees": 15.0000
+  },
+  "requestType": {
+    "ID": 1,
+    "Fee": 12.0000,
+    "Type": "تقديم طلب  استخراج رخصة محلية جديدة"
+  },
+  "FeeAmount": 27.0000,
+  "IsPaid": false,
+  "PaymentTimeStamps": null,
+  "TheTypeOfRequest": "تقديم طلب  استخراج رخصة محلية جديدة",
+  "CreateDate": "2025-08-20T16:35:06.487",
+  "UpdateDate": "2025-08-20T16:36:21.81"
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 20,
+  "Timestamp": "2025-08-20T16:09:53.3489572Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Request
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-20 18:26:10.2994 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Request
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Request
+Old State =>
+{
+  "ID": 23,
+  "NationalNumber": "1233456789000",
+  "person": {
+    "ID": 94,
+    "NationalNumber": "1233456789000",
+    "FirstName": "Ali",
+    "SecondName": "Ahmed",
+    "ThirdName": "Salem",
+    "LastName": "Jamil",
+    "FullName": "Ali Ahmed Salem Jamil",
+    "DateOfBirth": "1999-11-11T12:00:30",
+    "Gender": "Female",
+    "Address": "Elmashteel street",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "123456789000.jpg",
+    "Age": 25
+  },
+  "RequestTypeID": 1,
+  "LicenseClassID": 3,
+  "LicenseID": null,
+  "PhoneNumber": null,
+  "Email": null,
+  "license": null,
+  "RequestStatusID": 2,
+  "status": {
+    "ID": 2,
+    "Name": "قيد الإنتظار"
+  },
+  "licenseClass": {
+    "ID": 3,
+    "Name": "فئة ثانية",
+    "Description": "رخصة لقيادة السيارات الكبيرة والنقل",
+    "Age": 21,
+    "ValidatyLength": 6,
+    "Fees": 15.0000
+  },
+  "requestType": {
+    "ID": 1,
+    "Fee": 12.0000,
+    "Type": "تقديم طلب  استخراج رخصة محلية جديدة"
+  },
+  "FeeAmount": null,
+  "IsPaid": false,
+  "PaymentTimeStamps": null,
+  "TheTypeOfRequest": "تقديم طلب  استخراج رخصة محلية جديدة",
+  "CreateDate": "2025-08-20T18:18:30.463",
+  "UpdateDate": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 23,
+  "Timestamp": "2025-08-20T16:26:10.1213123Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Request
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-20 18:27:42.3192 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Request
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Request
+Old State =>
+{
+  "ID": 6,
+  "NationalNumber": "21819808090",
+  "person": {
+    "ID": 96,
+    "NationalNumber": "21819808090",
+    "FirstName": "Sana",
+    "SecondName": "Mohammed",
+    "ThirdName": "Aziz",
+    "LastName": "Jamal",
+    "FullName": "Sana Mohammed Aziz Jamal",
+    "DateOfBirth": "1980-09-17T00:00:00",
+    "Gender": "Male",
+    "Address": "Tripoli Libya El-Mashteel st7978",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "",
+    "Age": 44
+  },
+  "RequestTypeID": 3,
+  "LicenseClassID": null,
+  "LicenseID": 35,
+  "PhoneNumber": null,
+  "Email": null,
+  "license": {
+    "ID": 35,
+    "ApplicationID": 51,
+    "application": {
+      "ID": 51,
+      "PersonID": 96,
+      "person": {
+        "ID": 96,
+        "NationalNumber": "21819808090",
+        "FirstName": "Sana",
+        "SecondName": "Mohammed",
+        "ThirdName": "Aziz",
+        "LastName": "Jamal",
+        "FullName": "Sana Mohammed Aziz Jamal",
+        "DateOfBirth": "1980-09-17T00:00:00",
+        "Gender": "أنثى",
+        "Address": "Tripoli Libya El-Mashteel st7978",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "",
+        "Age": 44
+      },
+      "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+      "TypeID": 1,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-05-06T17:16:32.44",
+      "LastStatusDate": "2025-05-07T04:27:08.153",
+      "license": null,
+      "internationalLicense": null,
+      "RequestID": 3,
+      "request": null
+    },
+    "DriverID": 5,
+    "driver": {
+      "ID": 5,
+      "PersonID": 96,
+      "person": {
+        "ID": 96,
+        "NationalNumber": "21819808090",
+        "FirstName": "Sana",
+        "SecondName": "Mohammed",
+        "ThirdName": "Aziz",
+        "LastName": "Jamal",
+        "FullName": "Sana Mohammed Aziz Jamal",
+        "DateOfBirth": "1980-09-17T00:00:00",
+        "Gender": "أنثى",
+        "Address": "Tripoli Libya El-Mashteel st7978",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "",
+        "Age": 44
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-05-07T04:27:08.11",
+      "NumberActiveLicense": 2
+    },
+    "LicenseClassID": 2,
+    "licenseClass": {
+      "ID": 2,
+      "Name": "فئة أولى (ب)",
+      "Description": "رخصة قيادة السيارات الصغيرة",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "رخصة جديدة",
+    "IssueDate": "2025-05-07T04:27:08.14",
+    "ExpirationDate": "2035-05-07T04:27:08.14",
+    "IsActive": false,
+    "IsReserved": false,
+    "Notes": "needs to wear glasses",
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": -1
+  },
+  "RequestStatusID": 3,
+  "status": {
+    "ID": 3,
+    "Name": "مرفوض"
+  },
+  "licenseClass": null,
+  "requestType": {
+    "ID": 3,
+    "Fee": 12.0000,
+    "Type": "تقديم طلب استخراج رخصة بدل تالف "
+  },
+  "FeeAmount": null,
+  "IsPaid": false,
+  "PaymentTimeStamps": null,
+  "TheTypeOfRequest": "تقديم طلب استخراج رخصة بدل تالف ",
+  "CreateDate": "2025-05-07T07:01:33.25",
+  "UpdateDate": "2025-05-07T07:02:31.493"
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 6,
+  "Timestamp": "2025-08-20T16:27:42.3068227Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Request
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-20 18:38:26.9188 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Request
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Request
+Old State =>
+{
+  "ID": 24,
+  "NationalNumber": "1233456789000",
+  "person": {
+    "ID": 94,
+    "NationalNumber": "1233456789000",
+    "FirstName": "Ali",
+    "SecondName": "Ahmed",
+    "ThirdName": "Salem",
+    "LastName": "Jamil",
+    "FullName": "Ali Ahmed Salem Jamil",
+    "DateOfBirth": "1999-11-11T12:00:30",
+    "Gender": "Female",
+    "Address": "Elmashteel street",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "123456789000.jpg",
+    "Age": 25
+  },
+  "RequestTypeID": 1,
+  "LicenseClassID": 3,
+  "LicenseID": null,
+  "PhoneNumber": null,
+  "Email": null,
+  "license": null,
+  "RequestStatusID": 4,
+  "status": {
+    "ID": 4,
+    "Name": "مكتمل"
+  },
+  "licenseClass": {
+    "ID": 3,
+    "Name": "فئة ثانية",
+    "Description": "رخصة لقيادة السيارات الكبيرة والنقل",
+    "Age": 21,
+    "ValidatyLength": 6,
+    "Fees": 15.0000
+  },
+  "requestType": {
+    "ID": 1,
+    "Fee": 12.0000,
+    "Type": "تقديم طلب  استخراج رخصة محلية جديدة"
+  },
+  "FeeAmount": 27.0000,
+  "IsPaid": true,
+  "PaymentTimeStamps": "2025-08-20T18:30:43.677",
+  "TheTypeOfRequest": "تقديم طلب  استخراج رخصة محلية جديدة",
+  "CreateDate": "2025-08-20T18:28:53.31",
+  "UpdateDate": "2025-08-20T18:30:43.677"
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 24,
+  "Timestamp": "2025-08-20T16:38:26.7273702Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Request
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-20 20:21:52.5107 | INFO | TransactionLogger
+ User: adminm1
+ Entity: LocalLicenseApplication
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = LocalLicenseApplication
+Old State =>
+{
+  "LocalAppId": 25,
+  "LicenseClassName": "فئة ثانية",
+  "LicenseClassID": 3,
+  "PassedTests": 0,
+  "appointment": null,
+  "ID": 164,
+  "PersonID": 1,
+  "person": {
+    "ID": 1,
+    "NationalNumber": "119992134354",
+    "FirstName": "محمد ",
+    "SecondName": "عبدالرزاق",
+    "ThirdName": "سالم",
+    "LastName": "المسلاتي",
+    "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+    "DateOfBirth": "1999-11-09T00:00:00",
+    "Gender": "ذكر",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "119992134354..jpg",
+    "Age": 25
+  },
+  "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+  "TypeID": 1,
+  "Status": "ملغي",
+  "CreatedByUserID": 1,
+  "CreatedByUser": "AdminM1",
+  "UpdatedByUserID": 1,
+  "UpdatedByUser": "AdminM1",
+  "PaidFees": 12.0000,
+  "CreatedDate": "2025-08-20T20:18:34.073",
+  "LastStatusDate": "2025-08-20T20:21:42.693",
+  "license": {
+    "ID": 81,
+    "ApplicationID": 120,
+    "application": {
+      "ID": 120,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+      "TypeID": 1,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-08-07T03:01:48.033",
+      "LastStatusDate": "2025-08-07T07:42:08.457",
+      "license": null,
+      "internationalLicense": null,
+      "RequestID": null,
+      "request": null
+    },
+    "DriverID": 8,
+    "driver": {
+      "ID": 8,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-08-07T07:42:08.383",
+      "NumberActiveLicense": 2
+    },
+    "LicenseClassID": 1,
+    "licenseClass": {
+      "ID": 1,
+      "Name": "فئة أولى (أ)",
+      "Description": "رخصة قيادة الدراجات النارية",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "رخصة جديدة",
+    "IssueDate": "2025-08-07T07:42:08.423",
+    "ExpirationDate": "2035-08-07T07:42:08.423",
+    "IsActive": true,
+    "IsReserved": false,
+    "Notes": "يحتاج إلى إرتداء نظارات",
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": -1
+  },
+  "internationalLicense": null,
+  "RequestID": null,
+  "request": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 25,
+  "Timestamp": "2025-08-20T18:21:52.1236282Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=LocalLicenseApplication
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-20 20:40:12.6847 | INFO | TransactionLogger
+ User: adminm1
+ Entity: LocalLicenseApplication
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = LocalLicenseApplication
+Old State =>
+{
+  "LocalAppId": 26,
+  "LicenseClassName": "فئة ثانية",
+  "LicenseClassID": 3,
+  "PassedTests": 0,
+  "appointment": null,
+  "ID": 166,
+  "PersonID": 1,
+  "person": {
+    "ID": 1,
+    "NationalNumber": "119992134354",
+    "FirstName": "محمد ",
+    "SecondName": "عبدالرزاق",
+    "ThirdName": "سالم",
+    "LastName": "المسلاتي",
+    "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+    "DateOfBirth": "1999-11-09T00:00:00",
+    "Gender": "ذكر",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "119992134354..jpg",
+    "Age": 25
+  },
+  "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+  "TypeID": 1,
+  "Status": "ملغي",
+  "CreatedByUserID": 1,
+  "CreatedByUser": "AdminM1",
+  "UpdatedByUserID": 1,
+  "UpdatedByUser": "AdminM1",
+  "PaidFees": 12.0000,
+  "CreatedDate": "2025-08-20T20:37:57.267",
+  "LastStatusDate": "2025-08-20T20:40:05.427",
+  "license": {
+    "ID": 81,
+    "ApplicationID": 120,
+    "application": {
+      "ID": 120,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+      "TypeID": 1,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-08-07T03:01:48.033",
+      "LastStatusDate": "2025-08-07T07:42:08.457",
+      "license": null,
+      "internationalLicense": null,
+      "RequestID": null,
+      "request": null
+    },
+    "DriverID": 8,
+    "driver": {
+      "ID": 8,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-08-07T07:42:08.383",
+      "NumberActiveLicense": 2
+    },
+    "LicenseClassID": 1,
+    "licenseClass": {
+      "ID": 1,
+      "Name": "فئة أولى (أ)",
+      "Description": "رخصة قيادة الدراجات النارية",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "رخصة جديدة",
+    "IssueDate": "2025-08-07T07:42:08.423",
+    "ExpirationDate": "2035-08-07T07:42:08.423",
+    "IsActive": true,
+    "IsReserved": false,
+    "Notes": "يحتاج إلى إرتداء نظارات",
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": -1
+  },
+  "internationalLicense": null,
+  "RequestID": null,
+  "request": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 26,
+  "Timestamp": "2025-08-20T18:40:12.6847076Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=LocalLicenseApplication
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-20 22:56:02.3613 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 109,
+  "NationalNumber": "119906789009",
+  "FirstName": "محمد",
+  "SecondName": "عبدالوهاب",
+  "ThirdName": "زكريا",
+  "LastName": "شعبان",
+  "FullName": "محمد عبدالوهاب زكريا شعبان",
+  "DateOfBirth": "1990-02-06T22:46:50",
+  "Gender": "ذكر",
+  "Address": "السياحية بالقرب من موزارت",
+  "NationalityID": 97,
+  "MunicipalityID": 72,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "حي الأندلس",
+  "ImagePath": "119906789009..jpg",
+  "Age": 35
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119906789009",
+  "FirstName": "محمد",
+  "SecondName": "عبدالوهاب",
+  "ThirdName": "زكريا",
+  "LastName": "شعبان",
+  "FullName": "محمد عبدالوهاب زكريا شعبان",
+  "DateOfBirth": "1990-02-06T22:46:50",
+  "Gender": "ذكر",
+  "Address": "السياحية بالقرب من موزارت",
+  "NationalityID": 97,
+  "MunicipalityID": 72,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119906789009..jpg",
+  "Age": 35
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-20 22:56:14.1229 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 109,
+  "NationalNumber": "119906789009",
+  "FirstName": "محمد",
+  "SecondName": "عبدالوهاب",
+  "ThirdName": "زكريا",
+  "LastName": "شعبان",
+  "FullName": "محمد عبدالوهاب زكريا شعبان",
+  "DateOfBirth": "1990-02-06T22:46:50",
+  "Gender": "ذكر",
+  "Address": "السياحية بالقرب من موزارت",
+  "NationalityID": 97,
+  "MunicipalityID": 72,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "حي الأندلس",
+  "ImagePath": "119906789009..jpg",
+  "Age": 35
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119906789009",
+  "FirstName": "محمد",
+  "SecondName": "عبدالوهاب",
+  "ThirdName": "زكريا",
+  "LastName": "شعبان",
+  "FullName": "محمد عبدالوهاب زكريا شعبان",
+  "DateOfBirth": "1990-02-06T22:46:50",
+  "Gender": "ذكر",
+  "Address": "السياحية بالقرب من موزارت",
+  "NationalityID": 97,
+  "MunicipalityID": 72,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119906789009..jpg",
+  "Age": 35
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-21 00:00:15.3237 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Request
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Request
+Old State =>
+{
+  "ID": 5,
+  "NationalNumber": "21819808090",
+  "person": {
+    "ID": 96,
+    "NationalNumber": "21819808090",
+    "FirstName": "Sana",
+    "SecondName": "Mohammed",
+    "ThirdName": "Aziz",
+    "LastName": "Jamal",
+    "FullName": "Sana Mohammed Aziz Jamal",
+    "DateOfBirth": "1980-09-17T00:00:00",
+    "Gender": "Male",
+    "Address": "Tripoli Libya El-Mashteel st7978",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "",
+    "Age": 44
+  },
+  "RequestTypeID": 3,
+  "LicenseClassID": null,
+  "LicenseID": 35,
+  "PhoneNumber": null,
+  "Email": null,
+  "license": {
+    "ID": 35,
+    "ApplicationID": 51,
+    "application": {
+      "ID": 51,
+      "PersonID": 96,
+      "person": {
+        "ID": 96,
+        "NationalNumber": "21819808090",
+        "FirstName": "Sana",
+        "SecondName": "Mohammed",
+        "ThirdName": "Aziz",
+        "LastName": "Jamal",
+        "FullName": "Sana Mohammed Aziz Jamal",
+        "DateOfBirth": "1980-09-17T00:00:00",
+        "Gender": "أنثى",
+        "Address": "Tripoli Libya El-Mashteel st7978",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "",
+        "Age": 44
+      },
+      "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+      "TypeID": 1,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-05-06T17:16:32.44",
+      "LastStatusDate": "2025-05-07T04:27:08.153",
+      "license": null,
+      "internationalLicense": null,
+      "RequestID": 3,
+      "request": null
+    },
+    "DriverID": 5,
+    "driver": {
+      "ID": 5,
+      "PersonID": 96,
+      "person": {
+        "ID": 96,
+        "NationalNumber": "21819808090",
+        "FirstName": "Sana",
+        "SecondName": "Mohammed",
+        "ThirdName": "Aziz",
+        "LastName": "Jamal",
+        "FullName": "Sana Mohammed Aziz Jamal",
+        "DateOfBirth": "1980-09-17T00:00:00",
+        "Gender": "أنثى",
+        "Address": "Tripoli Libya El-Mashteel st7978",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "",
+        "Age": 44
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-05-07T04:27:08.11",
+      "NumberActiveLicense": 2
+    },
+    "LicenseClassID": 2,
+    "licenseClass": {
+      "ID": 2,
+      "Name": "فئة أولى (ب)",
+      "Description": "رخصة قيادة السيارات الصغيرة",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "رخصة جديدة",
+    "IssueDate": "2025-05-07T04:27:08.14",
+    "ExpirationDate": "2035-05-07T04:27:08.14",
+    "IsActive": false,
+    "IsReserved": false,
+    "Notes": "needs to wear glasses",
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": -1
+  },
+  "RequestStatusID": 3,
+  "status": {
+    "ID": 3,
+    "Name": "مرفوض"
+  },
+  "licenseClass": null,
+  "requestType": {
+    "ID": 3,
+    "Fee": 12.0000,
+    "Type": "تقديم طلب استخراج رخصة بدل تالف "
+  },
+  "FeeAmount": null,
+  "IsPaid": false,
+  "PaymentTimeStamps": null,
+  "TheTypeOfRequest": "تقديم طلب استخراج رخصة بدل تالف ",
+  "CreateDate": "2025-05-07T06:53:31.137",
+  "UpdateDate": "2025-05-07T07:01:21.18"
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 5,
+  "Timestamp": "2025-08-20T22:00:15.1565104Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Request
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-21 21:37:11.6457 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 168,
+  "PersonID": 1,
+  "person": {
+    "ID": 1,
+    "NationalNumber": "119992134354",
+    "FirstName": "محمد ",
+    "SecondName": "عبدالرزاق",
+    "ThirdName": "سالم",
+    "LastName": "المسلاتي",
+    "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+    "DateOfBirth": "1999-11-09T00:00:00",
+    "Gender": "ذكر",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "119992134354..jpg",
+    "Age": 25
+  },
+  "Type": "تقديم طلب لتجديد رخصة",
+  "TypeID": 2,
+  "Status": "ملغي",
+  "CreatedByUserID": 1,
+  "CreatedByUser": "AdminM1",
+  "UpdatedByUserID": 1,
+  "UpdatedByUser": "AdminM1",
+  "PaidFees": 12.0000,
+  "CreatedDate": "2025-08-21T21:33:20.46",
+  "LastStatusDate": "2025-08-21T21:36:57.65",
+  "license": {
+    "ID": 81,
+    "ApplicationID": 120,
+    "application": {
+      "ID": 120,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+      "TypeID": 1,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-08-07T03:01:48.033",
+      "LastStatusDate": "2025-08-07T07:42:08.457",
+      "license": null,
+      "internationalLicense": null,
+      "RequestID": null,
+      "request": null
+    },
+    "DriverID": 8,
+    "driver": {
+      "ID": 8,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-08-07T07:42:08.383",
+      "NumberActiveLicense": 1
+    },
+    "LicenseClassID": 1,
+    "licenseClass": {
+      "ID": 1,
+      "Name": "فئة أولى (أ)",
+      "Description": "رخصة قيادة الدراجات النارية",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "رخصة جديدة",
+    "IssueDate": "2015-08-07T07:42:08.423",
+    "ExpirationDate": "2025-08-07T07:42:08.423",
+    "IsActive": false,
+    "IsReserved": false,
+    "Notes": "يحتاج إلى إرتداء نظارات",
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": -1
+  },
+  "internationalLicense": null,
+  "RequestID": null,
+  "request": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 168,
+  "Timestamp": "2025-08-21T19:37:11.2613714Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-21 21:56:50.9247 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 169,
+  "PersonID": 1,
+  "person": {
+    "ID": 1,
+    "NationalNumber": "119992134354",
+    "FirstName": "محمد ",
+    "SecondName": "عبدالرزاق",
+    "ThirdName": "سالم",
+    "LastName": "المسلاتي",
+    "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+    "DateOfBirth": "1999-11-09T00:00:00",
+    "Gender": "ذكر",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "119992134354..jpg",
+    "Age": 25
+  },
+  "Type": "تقديم طلب لتجديد رخصة",
+  "TypeID": 2,
+  "Status": "ملغي",
+  "CreatedByUserID": 1,
+  "CreatedByUser": "AdminM1",
+  "UpdatedByUserID": 1,
+  "UpdatedByUser": "AdminM1",
+  "PaidFees": 12.0000,
+  "CreatedDate": "2025-08-21T21:49:40.867",
+  "LastStatusDate": "2025-08-21T21:56:32.953",
+  "license": {
+    "ID": 81,
+    "ApplicationID": 120,
+    "application": {
+      "ID": 120,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+      "TypeID": 1,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-08-07T03:01:48.033",
+      "LastStatusDate": "2025-08-07T07:42:08.457",
+      "license": null,
+      "internationalLicense": null,
+      "RequestID": null,
+      "request": null
+    },
+    "DriverID": 8,
+    "driver": {
+      "ID": 8,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-08-07T07:42:08.383",
+      "NumberActiveLicense": 1
+    },
+    "LicenseClassID": 1,
+    "licenseClass": {
+      "ID": 1,
+      "Name": "فئة أولى (أ)",
+      "Description": "رخصة قيادة الدراجات النارية",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "رخصة جديدة",
+    "IssueDate": "2015-08-07T07:42:08.423",
+    "ExpirationDate": "2025-08-07T07:42:08.423",
+    "IsActive": false,
+    "IsReserved": false,
+    "Notes": "يحتاج إلى إرتداء نظارات",
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": -1
+  },
+  "internationalLicense": null,
+  "RequestID": null,
+  "request": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 169,
+  "Timestamp": "2025-08-21T19:56:50.6474417Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-21 22:02:38.4624 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 170,
+  "PersonID": 1,
+  "person": {
+    "ID": 1,
+    "NationalNumber": "119992134354",
+    "FirstName": "محمد ",
+    "SecondName": "عبدالرزاق",
+    "ThirdName": "سالم",
+    "LastName": "المسلاتي",
+    "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+    "DateOfBirth": "1999-11-09T00:00:00",
+    "Gender": "ذكر",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "119992134354..jpg",
+    "Age": 25
+  },
+  "Type": "تقديم طلب لتجديد رخصة",
+  "TypeID": 2,
+  "Status": "ملغي",
+  "CreatedByUserID": 1,
+  "CreatedByUser": "AdminM1",
+  "UpdatedByUserID": 1,
+  "UpdatedByUser": "AdminM1",
+  "PaidFees": 12.0000,
+  "CreatedDate": "2025-08-21T21:58:36.237",
+  "LastStatusDate": "2025-08-21T22:02:31.233",
+  "license": {
+    "ID": 81,
+    "ApplicationID": 120,
+    "application": {
+      "ID": 120,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+      "TypeID": 1,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-08-07T03:01:48.033",
+      "LastStatusDate": "2025-08-07T07:42:08.457",
+      "license": null,
+      "internationalLicense": null,
+      "RequestID": null,
+      "request": null
+    },
+    "DriverID": 8,
+    "driver": {
+      "ID": 8,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-08-07T07:42:08.383",
+      "NumberActiveLicense": 1
+    },
+    "LicenseClassID": 1,
+    "licenseClass": {
+      "ID": 1,
+      "Name": "فئة أولى (أ)",
+      "Description": "رخصة قيادة الدراجات النارية",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "رخصة جديدة",
+    "IssueDate": "2015-08-07T07:42:08.423",
+    "ExpirationDate": "2025-08-07T07:42:08.423",
+    "IsActive": false,
+    "IsReserved": false,
+    "Notes": "يحتاج إلى إرتداء نظارات",
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": -1
+  },
+  "internationalLicense": null,
+  "RequestID": null,
+  "request": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 170,
+  "Timestamp": "2025-08-21T20:02:38.3379732Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-21 22:05:29.6694 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 171,
+  "PersonID": 1,
+  "person": {
+    "ID": 1,
+    "NationalNumber": "119992134354",
+    "FirstName": "محمد ",
+    "SecondName": "عبدالرزاق",
+    "ThirdName": "سالم",
+    "LastName": "المسلاتي",
+    "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+    "DateOfBirth": "1999-11-09T00:00:00",
+    "Gender": "ذكر",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "119992134354..jpg",
+    "Age": 25
+  },
+  "Type": "تقديم طلب لتجديد رخصة",
+  "TypeID": 2,
+  "Status": "ملغي",
+  "CreatedByUserID": 1,
+  "CreatedByUser": "AdminM1",
+  "UpdatedByUserID": 1,
+  "UpdatedByUser": "AdminM1",
+  "PaidFees": 12.0000,
+  "CreatedDate": "2025-08-21T22:03:30.543",
+  "LastStatusDate": "2025-08-21T22:05:19.29",
+  "license": {
+    "ID": 81,
+    "ApplicationID": 120,
+    "application": {
+      "ID": 120,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+      "TypeID": 1,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-08-07T03:01:48.033",
+      "LastStatusDate": "2025-08-07T07:42:08.457",
+      "license": null,
+      "internationalLicense": null,
+      "RequestID": null,
+      "request": null
+    },
+    "DriverID": 8,
+    "driver": {
+      "ID": 8,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-08-07T07:42:08.383",
+      "NumberActiveLicense": 1
+    },
+    "LicenseClassID": 1,
+    "licenseClass": {
+      "ID": 1,
+      "Name": "فئة أولى (أ)",
+      "Description": "رخصة قيادة الدراجات النارية",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "رخصة جديدة",
+    "IssueDate": "2015-08-07T07:42:08.423",
+    "ExpirationDate": "2025-08-07T07:42:08.423",
+    "IsActive": false,
+    "IsReserved": false,
+    "Notes": "يحتاج إلى إرتداء نظارات",
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": -1
+  },
+  "internationalLicense": null,
+  "RequestID": null,
+  "request": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 171,
+  "Timestamp": "2025-08-21T20:05:29.5422141Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-21 22:06:44.5864 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 172,
+  "PersonID": 1,
+  "person": {
+    "ID": 1,
+    "NationalNumber": "119992134354",
+    "FirstName": "محمد ",
+    "SecondName": "عبدالرزاق",
+    "ThirdName": "سالم",
+    "LastName": "المسلاتي",
+    "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+    "DateOfBirth": "1999-11-09T00:00:00",
+    "Gender": "ذكر",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "119992134354..jpg",
+    "Age": 25
+  },
+  "Type": "تقديم طلب لتجديد رخصة",
+  "TypeID": 2,
+  "Status": "ملغي",
+  "CreatedByUserID": 1,
+  "CreatedByUser": "AdminM1",
+  "UpdatedByUserID": 1,
+  "UpdatedByUser": "AdminM1",
+  "PaidFees": 12.0000,
+  "CreatedDate": "2025-08-21T22:05:53.97",
+  "LastStatusDate": "2025-08-21T22:06:35.537",
+  "license": {
+    "ID": 81,
+    "ApplicationID": 120,
+    "application": {
+      "ID": 120,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+      "TypeID": 1,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-08-07T03:01:48.033",
+      "LastStatusDate": "2025-08-07T07:42:08.457",
+      "license": null,
+      "internationalLicense": null,
+      "RequestID": null,
+      "request": null
+    },
+    "DriverID": 8,
+    "driver": {
+      "ID": 8,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-08-07T07:42:08.383",
+      "NumberActiveLicense": 1
+    },
+    "LicenseClassID": 1,
+    "licenseClass": {
+      "ID": 1,
+      "Name": "فئة أولى (أ)",
+      "Description": "رخصة قيادة الدراجات النارية",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "رخصة جديدة",
+    "IssueDate": "2015-08-07T07:42:08.423",
+    "ExpirationDate": "2025-08-07T07:42:08.423",
+    "IsActive": false,
+    "IsReserved": false,
+    "Notes": "يحتاج إلى إرتداء نظارات",
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": -1
+  },
+  "internationalLicense": null,
+  "RequestID": null,
+  "request": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 172,
+  "Timestamp": "2025-08-21T20:06:44.1404256Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-21 22:10:36.5850 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 173,
+  "PersonID": 1,
+  "person": {
+    "ID": 1,
+    "NationalNumber": "119992134354",
+    "FirstName": "محمد ",
+    "SecondName": "عبدالرزاق",
+    "ThirdName": "سالم",
+    "LastName": "المسلاتي",
+    "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+    "DateOfBirth": "1999-11-09T00:00:00",
+    "Gender": "ذكر",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "119992134354..jpg",
+    "Age": 25
+  },
+  "Type": "تقديم طلب لتجديد رخصة",
+  "TypeID": 2,
+  "Status": "ملغي",
+  "CreatedByUserID": 1,
+  "CreatedByUser": "AdminM1",
+  "UpdatedByUserID": 1,
+  "UpdatedByUser": "AdminM1",
+  "PaidFees": 12.0000,
+  "CreatedDate": "2025-08-21T22:07:04.25",
+  "LastStatusDate": "2025-08-21T22:10:30.267",
+  "license": {
+    "ID": 81,
+    "ApplicationID": 120,
+    "application": {
+      "ID": 120,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+      "TypeID": 1,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-08-07T03:01:48.033",
+      "LastStatusDate": "2025-08-07T07:42:08.457",
+      "license": null,
+      "internationalLicense": null,
+      "RequestID": null,
+      "request": null
+    },
+    "DriverID": 8,
+    "driver": {
+      "ID": 8,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-08-07T07:42:08.383",
+      "NumberActiveLicense": 1
+    },
+    "LicenseClassID": 1,
+    "licenseClass": {
+      "ID": 1,
+      "Name": "فئة أولى (أ)",
+      "Description": "رخصة قيادة الدراجات النارية",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "رخصة جديدة",
+    "IssueDate": "2015-08-07T07:42:08.423",
+    "ExpirationDate": "2025-08-07T07:42:08.423",
+    "IsActive": false,
+    "IsReserved": false,
+    "Notes": "يحتاج إلى إرتداء نظارات",
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": -1
+  },
+  "internationalLicense": null,
+  "RequestID": null,
+  "request": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 173,
+  "Timestamp": "2025-08-21T20:10:36.4314725Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-21 22:34:32.2988 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "LocalAppId": 30,
+  "LicenseClassName": "فئة أولى (أ)",
+  "LicenseClassID": 1,
+  "PassedTests": 0,
+  "appointment": null,
+  "ID": 174,
+  "PersonID": 1,
+  "person": {
+    "ID": 1,
+    "NationalNumber": "119992134354",
+    "FirstName": "محمد ",
+    "SecondName": "عبدالرزاق",
+    "ThirdName": "سالم",
+    "LastName": "المسلاتي",
+    "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+    "DateOfBirth": "1999-11-09T00:00:00",
+    "Gender": "ذكر",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "119992134354..jpg",
+    "Age": 25
+  },
+  "Type": "تقديم طلب لتجديد رخصة",
+  "TypeID": 2,
+  "Status": "ملغي",
+  "CreatedByUserID": 1,
+  "CreatedByUser": "AdminM1",
+  "UpdatedByUserID": 1,
+  "UpdatedByUser": "AdminM1",
+  "PaidFees": 12.0000,
+  "CreatedDate": "2025-08-21T22:10:51.04",
+  "LastStatusDate": "2025-08-21T22:16:57.15",
+  "license": {
+    "ID": 81,
+    "ApplicationID": 120,
+    "application": {
+      "ID": 120,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+      "TypeID": 1,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-08-07T03:01:48.033",
+      "LastStatusDate": "2025-08-07T07:42:08.457",
+      "license": null,
+      "internationalLicense": null,
+      "RequestID": null,
+      "request": null
+    },
+    "DriverID": 8,
+    "driver": {
+      "ID": 8,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-08-07T07:42:08.383",
+      "NumberActiveLicense": 1
+    },
+    "LicenseClassID": 1,
+    "licenseClass": {
+      "ID": 1,
+      "Name": "فئة أولى (أ)",
+      "Description": "رخصة قيادة الدراجات النارية",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "رخصة جديدة",
+    "IssueDate": "2015-08-07T07:42:08.423",
+    "ExpirationDate": "2025-08-07T07:42:08.423",
+    "IsActive": false,
+    "IsReserved": false,
+    "Notes": "يحتاج إلى إرتداء نظارات",
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": -1
+  },
+  "internationalLicense": null,
+  "RequestID": null,
+  "request": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 174,
+  "Timestamp": "2025-08-21T20:34:32.2982957Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-21 22:37:04.5629 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "LocalAppId": 31,
+  "LicenseClassName": "فئة أولى (أ)",
+  "LicenseClassID": 1,
+  "PassedTests": 0,
+  "appointment": null,
+  "ID": 175,
+  "PersonID": 1,
+  "person": {
+    "ID": 1,
+    "NationalNumber": "119992134354",
+    "FirstName": "محمد ",
+    "SecondName": "عبدالرزاق",
+    "ThirdName": "سالم",
+    "LastName": "المسلاتي",
+    "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+    "DateOfBirth": "1999-11-09T00:00:00",
+    "Gender": "ذكر",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "119992134354..jpg",
+    "Age": 25
+  },
+  "Type": "تقديم طلب لتجديد رخصة",
+  "TypeID": 2,
+  "Status": "ملغي",
+  "CreatedByUserID": 1,
+  "CreatedByUser": "AdminM1",
+  "UpdatedByUserID": 1,
+  "UpdatedByUser": "AdminM1",
+  "PaidFees": 12.0000,
+  "CreatedDate": "2025-08-21T22:34:59.393",
+  "LastStatusDate": "2025-08-21T22:36:58.377",
+  "license": {
+    "ID": 81,
+    "ApplicationID": 120,
+    "application": {
+      "ID": 120,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+      "TypeID": 1,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-08-07T03:01:48.033",
+      "LastStatusDate": "2025-08-07T07:42:08.457",
+      "license": null,
+      "internationalLicense": null,
+      "RequestID": null,
+      "request": null
+    },
+    "DriverID": 8,
+    "driver": {
+      "ID": 8,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-08-07T07:42:08.383",
+      "NumberActiveLicense": 1
+    },
+    "LicenseClassID": 1,
+    "licenseClass": {
+      "ID": 1,
+      "Name": "فئة أولى (أ)",
+      "Description": "رخصة قيادة الدراجات النارية",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "رخصة جديدة",
+    "IssueDate": "2015-08-07T07:42:08.423",
+    "ExpirationDate": "2025-08-07T07:42:08.423",
+    "IsActive": false,
+    "IsReserved": false,
+    "Notes": "يحتاج إلى إرتداء نظارات",
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": -1
+  },
+  "internationalLicense": null,
+  "RequestID": null,
+  "request": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 175,
+  "Timestamp": "2025-08-21T20:37:04.5629792Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-21 22:55:09.0614 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "LocalAppId": 32,
+  "LicenseClassName": "فئة أولى (أ)",
+  "LicenseClassID": 1,
+  "PassedTests": 1,
+  "appointment": null,
+  "ID": 176,
+  "PersonID": 1,
+  "person": {
+    "ID": 1,
+    "NationalNumber": "119992134354",
+    "FirstName": "محمد ",
+    "SecondName": "عبدالرزاق",
+    "ThirdName": "سالم",
+    "LastName": "المسلاتي",
+    "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+    "DateOfBirth": "1999-11-09T00:00:00",
+    "Gender": "ذكر",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "119992134354..jpg",
+    "Age": 25
+  },
+  "Type": "تقديم طلب لتجديد رخصة",
+  "TypeID": 2,
+  "Status": "ملغي",
+  "CreatedByUserID": 1,
+  "CreatedByUser": "AdminM1",
+  "UpdatedByUserID": 1,
+  "UpdatedByUser": "AdminM1",
+  "PaidFees": 12.0000,
+  "CreatedDate": "2025-08-21T22:37:15.313",
+  "LastStatusDate": "2025-08-21T22:54:59.977",
+  "license": {
+    "ID": 81,
+    "ApplicationID": 120,
+    "application": {
+      "ID": 120,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+      "TypeID": 1,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-08-07T03:01:48.033",
+      "LastStatusDate": "2025-08-07T07:42:08.457",
+      "license": null,
+      "internationalLicense": null,
+      "RequestID": null,
+      "request": null
+    },
+    "DriverID": 8,
+    "driver": {
+      "ID": 8,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-08-07T07:42:08.383",
+      "NumberActiveLicense": 1
+    },
+    "LicenseClassID": 1,
+    "licenseClass": {
+      "ID": 1,
+      "Name": "فئة أولى (أ)",
+      "Description": "رخصة قيادة الدراجات النارية",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "رخصة جديدة",
+    "IssueDate": "2015-08-07T07:42:08.423",
+    "ExpirationDate": "2025-08-07T07:42:08.423",
+    "IsActive": false,
+    "IsReserved": false,
+    "Notes": "يحتاج إلى إرتداء نظارات",
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": -1
+  },
+  "internationalLicense": null,
+  "RequestID": null,
+  "request": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 176,
+  "Timestamp": "2025-08-21T20:55:08.9354471Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-22 01:38:24.0373 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeletePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 94,
+  "NationalNumber": "1233456789000",
+  "FirstName": "Ali",
+  "SecondName": "Ahmed",
+  "ThirdName": "Salem",
+  "LastName": "Jamil",
+  "FullName": "Ali Ahmed Salem Jamil",
+  "DateOfBirth": "1999-11-11T12:00:30",
+  "Gender": "ذكر",
+  "Address": "Elmashteel street",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "123456789000.jpg",
+  "Age": 25
+}
+New State =>
+{
+  "DeletedBy": 1,
+  "DeletedPersonID": 94,
+  "Timestamp": "2025-08-21T23:38:23.8049454Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeletePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-22 01:43:02.7366 | INFO | TransactionLogger
+ User: adminm1
+ Entity: LocalLicenseApplication
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = LocalLicenseApplication
+Old State =>
+{
+  "LocalAppId": 35,
+  "LicenseClassName": "فئة ثانية",
+  "LicenseClassID": 3,
+  "PassedTests": 3,
+  "appointment": null,
+  "ID": 183,
+  "PersonID": 1,
+  "person": {
+    "ID": 1,
+    "NationalNumber": "119992134354",
+    "FirstName": "محمد ",
+    "SecondName": "عبدالرزاق",
+    "ThirdName": "سالم",
+    "LastName": "المسلاتي",
+    "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+    "DateOfBirth": "1999-11-09T00:00:00",
+    "Gender": "ذكر",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "119992134354..jpg",
+    "Age": 25
+  },
+  "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+  "TypeID": 1,
+  "Status": "ملغي",
+  "CreatedByUserID": 1,
+  "CreatedByUser": "AdminM1",
+  "UpdatedByUserID": 1,
+  "UpdatedByUser": "AdminM1",
+  "PaidFees": 12.0000,
+  "CreatedDate": "2025-08-22T01:39:05.763",
+  "LastStatusDate": "2025-08-22T01:42:53.793",
+  "license": null,
+  "oldLicense": {
+    "ID": 97,
+    "ApplicationID": 178,
+    "application": {
+      "ID": 178,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "Type": "تقديم طلب لتجديد رخصة",
+      "TypeID": 2,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-08-21T23:08:26.75",
+      "LastStatusDate": "2025-08-22T00:18:34.97",
+      "license": null,
+      "oldLicense": null,
+      "internationalLicense": null,
+      "RequestID": null,
+      "request": null
+    },
+    "DriverID": 8,
+    "driver": {
+      "ID": 8,
+      "PersonID": 1,
+      "person": {
+        "ID": 1,
+        "NationalNumber": "119992134354",
+        "FirstName": "محمد ",
+        "SecondName": "عبدالرزاق",
+        "ThirdName": "سالم",
+        "LastName": "المسلاتي",
+        "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+        "DateOfBirth": "1999-11-09T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119992134354..jpg",
+        "Age": 25
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-08-07T07:42:08.383",
+      "NumberActiveLicense": 2
+    },
+    "LicenseClassID": 1,
+    "licenseClass": {
+      "ID": 1,
+      "Name": "فئة أولى (أ)",
+      "Description": "رخصة قيادة الدراجات النارية",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "تجديد رخصة",
+    "IssueDate": "2025-08-22T00:18:34.92",
+    "ExpirationDate": "2035-08-22T00:18:34.92",
+    "IsActive": true,
+    "IsReserved": false,
+    "Notes": null,
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": 81
+  },
+  "internationalLicense": null,
+  "RequestID": null,
+  "request": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 35,
+  "Timestamp": "2025-08-21T23:43:02.7362063Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=LocalLicenseApplication
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-23 00:23:43.7722 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 43,
+  "PersonID": 5,
+  "person": {
+    "ID": 5,
+    "NationalNumber": "21994223434",
+    "FirstName": "سالمة",
+    "SecondName": "علي",
+    "ThirdName": "رمضان",
+    "LastName": "التهامي",
+    "FullName": "سالمة علي رمضان التهامي",
+    "DateOfBirth": "1996-11-09T00:00:00",
+    "Gender": "أنثى",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": null,
+    "Age": 28
+  },
+  "Type": "تقديم طلب فك حجز الرخصة",
+  "TypeID": 5,
+  "Status": "ملغي",
+  "CreatedByUserID": 1,
+  "CreatedByUser": "AdminM1",
+  "UpdatedByUserID": 1,
+  "UpdatedByUser": "AdminM1",
+  "PaidFees": 12.0000,
+  "CreatedDate": "2025-04-28T15:16:23.587",
+  "LastStatusDate": "2025-04-28T15:27:40.597",
+  "license": null,
+  "oldLicense": {
+    "ID": 47,
+    "ApplicationID": 64,
+    "application": {
+      "ID": 64,
+      "PersonID": 5,
+      "person": {
+        "ID": 5,
+        "NationalNumber": "21994223434",
+        "FirstName": "سالمة",
+        "SecondName": "علي",
+        "ThirdName": "رمضان",
+        "LastName": "التهامي",
+        "FullName": "سالمة علي رمضان التهامي",
+        "DateOfBirth": "1996-11-09T00:00:00",
+        "Gender": "أنثى",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": null,
+        "Age": 28
+      },
+      "Type": "تقديم طلب استخراج رخصة بدل فاقد",
+      "TypeID": 4,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "user20",
+      "UpdatedByUserID": 19,
+      "UpdatedByUser": "user20",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-07-01T11:00:17.977",
+      "LastStatusDate": "2025-07-01T11:01:38.237",
+      "license": null,
+      "oldLicense": null,
+      "internationalLicense": null,
+      "RequestID": null,
+      "request": null
+    },
+    "DriverID": 3,
+    "driver": {
+      "ID": 3,
+      "PersonID": 5,
+      "person": {
+        "ID": 5,
+        "NationalNumber": "21994223434",
+        "FirstName": "سالمة",
+        "SecondName": "علي",
+        "ThirdName": "رمضان",
+        "LastName": "التهامي",
+        "FullName": "سالمة علي رمضان التهامي",
+        "DateOfBirth": "1996-11-09T00:00:00",
+        "Gender": "أنثى",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": null,
+        "Age": 28
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-03-01T03:02:38.25",
+      "NumberActiveLicense": 1
+    },
+    "LicenseClassID": 2,
+    "licenseClass": {
+      "ID": 2,
+      "Name": "فئة أولى (ب)",
+      "Description": "رخصة قيادة السيارات الصغيرة",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "بدل فاقد",
+    "IssueDate": "2025-07-01T11:01:38.2",
+    "ExpirationDate": "2035-07-01T11:01:38.2",
+    "IsActive": false,
+    "IsReserved": false,
+    "Notes": null,
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 19,
+    "createdByUser": "user20",
+    "OldLicenseID": 46
+  },
+  "internationalLicense": null,
+  "RequestID": null,
+  "request": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 43,
+  "Timestamp": "2025-08-22T22:23:43.5552161Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-23 00:25:02.0720 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 60,
+  "PersonID": 3,
+  "person": {
+    "ID": 3,
+    "NationalNumber": "119962113434",
+    "FirstName": "سالم",
+    "SecondName": "علي",
+    "ThirdName": "رمضان",
+    "LastName": "التهامي",
+    "FullName": "سالم علي رمضان التهامي",
+    "DateOfBirth": "1996-11-08T00:00:00",
+    "Gender": "ذكر",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "119962113434..jpg",
+    "Age": 28
+  },
+  "Type": "تقديم طلب استخراج رخصة بدل تالف ",
+  "TypeID": 3,
+  "Status": "ملغي",
+  "CreatedByUserID": 1,
+  "CreatedByUser": "user20",
+  "UpdatedByUserID": 19,
+  "UpdatedByUser": "user20",
+  "PaidFees": 15.0000,
+  "CreatedDate": "2025-06-30T22:17:46.467",
+  "LastStatusDate": "2025-07-01T22:38:29.917",
+  "license": null,
+  "oldLicense": {
+    "ID": 101,
+    "ApplicationID": 186,
+    "application": {
+      "ID": 186,
+      "PersonID": 3,
+      "person": {
+        "ID": 3,
+        "NationalNumber": "119962113434",
+        "FirstName": "سالم",
+        "SecondName": "علي",
+        "ThirdName": "رمضان",
+        "LastName": "التهامي",
+        "FullName": "سالم علي رمضان التهامي",
+        "DateOfBirth": "1996-11-08T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119962113434..jpg",
+        "Age": 28
+      },
+      "Type": "تقديم طلب  استخراج رخصة محلية جديدة",
+      "TypeID": 1,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "AdminM1",
+      "UpdatedByUserID": 1,
+      "UpdatedByUser": "AdminM1",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-08-22T16:05:21.163",
+      "LastStatusDate": "2025-08-22T16:10:50.593",
+      "license": null,
+      "oldLicense": null,
+      "internationalLicense": null,
+      "RequestID": null,
+      "request": null
+    },
+    "DriverID": 1,
+    "driver": {
+      "ID": 1,
+      "PersonID": 3,
+      "person": {
+        "ID": 3,
+        "NationalNumber": "119962113434",
+        "FirstName": "سالم",
+        "SecondName": "علي",
+        "ThirdName": "رمضان",
+        "LastName": "التهامي",
+        "FullName": "سالم علي رمضان التهامي",
+        "DateOfBirth": "1996-11-08T00:00:00",
+        "Gender": "ذكر",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": "119962113434..jpg",
+        "Age": 28
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-02-24T15:09:37.92",
+      "NumberActiveLicense": 2
+    },
+    "LicenseClassID": 3,
+    "licenseClass": {
+      "ID": 3,
+      "Name": "فئة ثانية",
+      "Description": "رخصة لقيادة السيارات الكبيرة والنقل",
+      "Age": 21,
+      "ValidatyLength": 6,
+      "Fees": 15.0000
+    },
+    "IssueReason": "رخصة جديدة",
+    "IssueDate": "2025-08-22T16:10:50.527",
+    "ExpirationDate": "2031-08-22T16:10:50.527",
+    "IsActive": true,
+    "IsReserved": false,
+    "Notes": "يجب عليه إرتداء نظارات",
+    "PaidFess": 10.0000,
+    "CreatedByUserID": 1,
+    "createdByUser": "AdminM1",
+    "OldLicenseID": 86
+  },
+  "internationalLicense": null,
+  "RequestID": null,
+  "request": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 60,
+  "Timestamp": "2025-08-22T22:25:02.0720748Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-23 15:11:37.6128 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 1,
+  "NationalNumber": "119992134354",
+  "FirstName": "محمد ",
+  "SecondName": "عبدالرزاق",
+  "ThirdName": "سالم",
+  "LastName": "المسلاتي",
+  "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+  "DateOfBirth": "1999-11-09T00:00:00",
+  "Gender": "ذكر",
+  "Address": "طريق المشتل عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "119992134354..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119992134354",
+  "FirstName": "محمد ",
+  "SecondName": "عبدالرزاق",
+  "ThirdName": "سالم",
+  "LastName": "المسلاتي",
+  "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+  "DateOfBirth": "1999-11-09T00:00:00",
+  "Gender": "ذكر",
+  "Address": "طريق المشتل عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119992134354..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-23 15:12:19.0642 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 1,
+  "NationalNumber": "119992134354",
+  "FirstName": "محمد ",
+  "SecondName": "عبدالرزاق",
+  "ThirdName": "سالم",
+  "LastName": "المسلاتي",
+  "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+  "DateOfBirth": "1999-11-09T00:00:00",
+  "Gender": "ذكر",
+  "Address": "طريق المشتل عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "119992134354..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119992134354",
+  "FirstName": "محمد ",
+  "SecondName": "عبدالرزاق",
+  "ThirdName": "سالم",
+  "LastName": "المسلاتي",
+  "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+  "DateOfBirth": "1999-11-09T00:00:00",
+  "Gender": "ذكر",
+  "Address": "طريق المشتل عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119992134354..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-23 15:14:40.3487 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 1,
+  "NationalNumber": "119992134354",
+  "FirstName": "محمد ",
+  "SecondName": "عبدالرزاق",
+  "ThirdName": "سالم",
+  "LastName": "المسلاتي",
+  "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+  "DateOfBirth": "1999-11-09T00:00:00",
+  "Gender": "ذكر",
+  "Address": "طريق المشتل عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "119992134354..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119992134354",
+  "FirstName": "محمد ",
+  "SecondName": "عبدالرزاق",
+  "ThirdName": "سالم",
+  "LastName": "المسلاتي",
+  "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+  "DateOfBirth": "1999-11-09T00:00:00",
+  "Gender": "ذكر",
+  "Address": "طريق المشتل عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119992134354..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-23 22:22:35.9232 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 41,
+  "PersonID": 5,
+  "person": {
+    "ID": 5,
+    "NationalNumber": "21994223434",
+    "FirstName": "سالمة",
+    "SecondName": "علي",
+    "ThirdName": "رمضان",
+    "LastName": "التهامي",
+    "FullName": "سالمة علي رمضان التهامي",
+    "DateOfBirth": "1996-11-09T00:00:00",
+    "Gender": "أنثى",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": null,
+    "Age": 28
+  },
+  "Type": "تقديم طلب استخراج رخصة دولية",
+  "TypeID": 6,
+  "Status": "ملغي",
+  "CreatedByUserID": 1,
+  "CreatedByUser": "user20",
+  "UpdatedByUserID": 19,
+  "UpdatedByUser": "user20",
+  "PaidFees": 12.0000,
+  "CreatedDate": "2025-04-23T01:48:24.52",
+  "LastStatusDate": "2025-04-23T02:10:25.083",
+  "license": null,
+  "oldLicense": {
+    "ID": 47,
+    "ApplicationID": 64,
+    "application": {
+      "ID": 64,
+      "PersonID": 5,
+      "person": {
+        "ID": 5,
+        "NationalNumber": "21994223434",
+        "FirstName": "سالمة",
+        "SecondName": "علي",
+        "ThirdName": "رمضان",
+        "LastName": "التهامي",
+        "FullName": "سالمة علي رمضان التهامي",
+        "DateOfBirth": "1996-11-09T00:00:00",
+        "Gender": "أنثى",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": null,
+        "Age": 28
+      },
+      "Type": "تقديم طلب استخراج رخصة بدل فاقد",
+      "TypeID": 4,
+      "Status": "مكتمل",
+      "CreatedByUserID": 1,
+      "CreatedByUser": "user20",
+      "UpdatedByUserID": 19,
+      "UpdatedByUser": "user20",
+      "PaidFees": 12.0000,
+      "CreatedDate": "2025-07-01T11:00:17.977",
+      "LastStatusDate": "2025-07-01T11:01:38.237",
+      "license": null,
+      "oldLicense": null,
+      "internationalLicense": null,
+      "RequestID": null,
+      "request": null
+    },
+    "DriverID": 3,
+    "driver": {
+      "ID": 3,
+      "PersonID": 5,
+      "person": {
+        "ID": 5,
+        "NationalNumber": "21994223434",
+        "FirstName": "سالمة",
+        "SecondName": "علي",
+        "ThirdName": "رمضان",
+        "LastName": "التهامي",
+        "FullName": "سالمة علي رمضان التهامي",
+        "DateOfBirth": "1996-11-09T00:00:00",
+        "Gender": "أنثى",
+        "Address": "طريق المشتل عين زارة",
+        "NationalityID": 97,
+        "MunicipalityID": 97,
+        "CountryName": "ليبيا",
+        "MunicipalityName": "عين زارة",
+        "ImagePath": null,
+        "Age": 28
+      },
+      "CreatedByUserID": 1,
+      "CreationDate": "2025-03-01T03:02:38.25",
+      "NumberActiveLicense": 1
+    },
+    "LicenseClassID": 2,
+    "licenseClass": {
+      "ID": 2,
+      "Name": "فئة أولى (ب)",
+      "Description": "رخصة قيادة السيارات الصغيرة",
+      "Age": 18,
+      "ValidatyLength": 10,
+      "Fees": 15.0000
+    },
+    "IssueReason": "بدل فاقد",
+    "IssueDate": "2025-07-01T11:01:38.2",
+    "ExpirationDate": "2035-07-01T11:01:38.2",
+    "IsActive": false,
+    "IsReserved": false,
+    "Notes": null,
+    "PaidFess": 15.0000,
+    "CreatedByUserID": 19,
+    "createdByUser": "user20",
+    "OldLicenseID": 46
+  },
+  "internationalLicense": null,
+  "RequestID": null,
+  "request": null
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 41,
+  "Timestamp": "2025-08-23T20:22:35.4318681Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-27 12:22:56.6415 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Request
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Request
+Old State =>
+{
+  "ID": 27,
+  "NationalNumber": "119992134354",
+  "person": {
+    "ID": 1,
+    "NationalNumber": "119992134354",
+    "FirstName": "محمد ",
+    "SecondName": "عبدالرزاق",
+    "ThirdName": "سالم",
+    "LastName": "المسلاتي",
+    "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+    "DateOfBirth": "1999-11-09T00:00:00",
+    "Gender": "Female",
+    "Address": "طريق المشتل عين زارة",
+    "NationalityID": 97,
+    "MunicipalityID": 97,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "عين زارة",
+    "ImagePath": "119992134354..jpg",
+    "Age": 25
+  },
+  "RequestTypeID": 1,
+  "LicenseClassID": 2,
+  "LicenseID": null,
+  "PhoneNumber": null,
+  "Email": null,
+  "license": null,
+  "RequestStatusID": 4,
+  "status": {
+    "ID": 4,
+    "Name": "مكتمل"
+  },
+  "licenseClass": {
+    "ID": 2,
+    "Name": "فئة أولى (ب)",
+    "Description": "رخصة قيادة السيارات الصغيرة",
+    "Age": 18,
+    "ValidatyLength": 10,
+    "Fees": 15.0000
+  },
+  "requestType": {
+    "ID": 1,
+    "Fee": 20.0000,
+    "Type": "تقديم طلب  استخراج رخصة محلية جديدة"
+  },
+  "FeeAmount": 20.0000,
+  "IsPaid": true,
+  "PaymentTimeStamps": "2025-08-27T12:20:47.683",
+  "TheTypeOfRequest": "تقديم طلب  استخراج رخصة محلية جديدة",
+  "CreateDate": "2025-08-27T12:20:00.907",
+  "UpdateDate": "2025-08-27T12:20:47.683"
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 27,
+  "Timestamp": "2025-08-27T10:22:56.3250939Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Request
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-27 21:05:49.8078 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeletePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 104,
+  "NationalNumber": "f",
+  "FirstName": "f",
+  "SecondName": "f",
+  "ThirdName": "ff",
+  "LastName": "f",
+  "FullName": "f f ff f",
+  "DateOfBirth": "2007-05-15T23:02:47.68",
+  "Gender": "أنثى",
+  "Address": "fd",
+  "NationalityID": 183,
+  "MunicipalityID": 18,
+  "CountryName": "أوغندا",
+  "MunicipalityName": "الخمس",
+  "ImagePath": null,
+  "Age": 18
+}
+New State =>
+{
+  "DeletedBy": 1,
+  "DeletedPersonID": 104,
+  "Timestamp": "2025-08-27T19:05:49.4163031Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeletePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-27 21:06:00.0504 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeletePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 102,
+  "NationalNumber": "11",
+  "FirstName": "kk",
+  "SecondName": "gg",
+  "ThirdName": "gg",
+  "LastName": "g",
+  "FullName": "kk gg gg g",
+  "DateOfBirth": "2007-05-12T08:03:46.577",
+  "Gender": "ذكر",
+  "Address": "عين زارة",
+  "NationalityID": 5,
+  "MunicipalityID": 16,
+  "CountryName": "أنغولا",
+  "MunicipalityName": "الحرابة",
+  "ImagePath": "11..jpg",
+  "Age": 18
+}
+New State =>
+{
+  "DeletedBy": 1,
+  "DeletedPersonID": 102,
+  "Timestamp": "2025-08-27T19:06:00.050471Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeletePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-27 21:06:26.6330 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeletePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 89,
+  "NationalNumber": "عبدالحليم",
+  "FirstName": "أحمد",
+  "SecondName": "محمد",
+  "ThirdName": "حافظ",
+  "LastName": "string",
+  "FullName": "أحمد محمد حافظ string",
+  "DateOfBirth": "1950-12-31T00:00:00",
+  "Gender": "ذكر",
+  "Address": "القاهرة",
+  "NationalityID": 32,
+  "MunicipalityID": 2,
+  "CountryName": "كندا",
+  "MunicipalityName": "أوباري",
+  "ImagePath": null,
+  "Age": 74
+}
+New State =>
+{
+  "DeletedBy": 1,
+  "DeletedPersonID": 89,
+  "Timestamp": "2025-08-27T19:06:26.6330491Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeletePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-27 22:33:25.0230 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 111,
+  "NationalNumber": "119900981234",
+  "FirstName": "عبداللطيف",
+  "SecondName": "عبدالمولى ",
+  "ThirdName": "سالم ",
+  "LastName": "الرجباني",
+  "FullName": "عبداللطيف عبدالمولى  سالم  الرجباني",
+  "DateOfBirth": "1990-04-27T22:31:18",
+  "Gender": "ذكر",
+  "Address": "شارع 15 الطير",
+  "NationalityID": 97,
+  "MunicipalityID": 88,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "سوق الجمعة",
+  "ImagePath": null,
+  "Age": 35
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119900981234",
+  "FirstName": "عبداللطيف",
+  "SecondName": "عبدالمولى ",
+  "ThirdName": "سالم ",
+  "LastName": "الرجباني",
+  "FullName": "عبداللطيف عبدالمولى  سالم  الرجباني",
+  "DateOfBirth": "1990-04-27T22:31:18",
+  "Gender": "ذكر",
+  "Address": "شارع 15 الطير",
+  "NationalityID": 97,
+  "MunicipalityID": 88,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": null,
+  "Age": 35
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-27 22:33:32.0576 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 111,
+  "NationalNumber": "119900981234",
+  "FirstName": "عبداللطيف",
+  "SecondName": "عبدالمولى ",
+  "ThirdName": "سالم ",
+  "LastName": "الرجباني",
+  "FullName": "عبداللطيف عبدالمولى  سالم  الرجباني",
+  "DateOfBirth": "1990-04-27T22:31:18",
+  "Gender": "ذكر",
+  "Address": "شارع 15 الطير",
+  "NationalityID": 97,
+  "MunicipalityID": 88,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "سوق الجمعة",
+  "ImagePath": null,
+  "Age": 35
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119900981234",
+  "FirstName": "عبداللطيف",
+  "SecondName": "عبدالمولى ",
+  "ThirdName": "سالم ",
+  "LastName": "الرجباني",
+  "FullName": "عبداللطيف عبدالمولى  سالم  الرجباني",
+  "DateOfBirth": "1990-04-27T22:31:18",
+  "Gender": "ذكر",
+  "Address": "شارع 15 الطير",
+  "NationalityID": 97,
+  "MunicipalityID": 88,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": null,
+  "Age": 35
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-27 22:34:01.2666 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 111,
+  "NationalNumber": "119900981234",
+  "FirstName": "عبداللطيف",
+  "SecondName": "عبدالمولى ",
+  "ThirdName": "سالم ",
+  "LastName": "الرجباني",
+  "FullName": "عبداللطيف عبدالمولى  سالم  الرجباني",
+  "DateOfBirth": "1990-04-27T22:31:18",
+  "Gender": "ذكر",
+  "Address": "شارع 15 الطير",
+  "NationalityID": 97,
+  "MunicipalityID": 88,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "سوق الجمعة",
+  "ImagePath": null,
+  "Age": 35
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119900981234",
+  "FirstName": "عبداللطيف",
+  "SecondName": "عبدالمولى ",
+  "ThirdName": "سالم ",
+  "LastName": "الرجباني",
+  "FullName": "عبداللطيف عبدالمولى  سالم  الرجباني",
+  "DateOfBirth": "1990-04-27T22:31:18",
+  "Gender": "ذكر",
+  "Address": "شارع 15 الطير",
+  "NationalityID": 97,
+  "MunicipalityID": 88,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119900981234..jpg",
+  "Age": 35
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-27 22:34:24.3594 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 111,
+  "NationalNumber": "119900981234",
+  "FirstName": "عبداللطيف",
+  "SecondName": "عبدالمولى ",
+  "ThirdName": "سالم ",
+  "LastName": "الرجباني",
+  "FullName": "عبداللطيف عبدالمولى  سالم  الرجباني",
+  "DateOfBirth": "1990-04-27T22:31:18",
+  "Gender": "ذكر",
+  "Address": "شارع 15 الطير",
+  "NationalityID": 97,
+  "MunicipalityID": 88,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "سوق الجمعة",
+  "ImagePath": "119900981234..jpg",
+  "Age": 35
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119900981234",
+  "FirstName": "عبداللطيف",
+  "SecondName": "عبدالمولى ",
+  "ThirdName": "سالم ",
+  "LastName": "الرجباني",
+  "FullName": "عبداللطيف عبدالمولى  سالم  الرجباني",
+  "DateOfBirth": "1990-04-27T22:31:18",
+  "Gender": "ذكر",
+  "Address": "شارع 15 الطير",
+  "NationalityID": 97,
+  "MunicipalityID": 88,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119900981234..jpg",
+  "Age": 35
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-27 22:44:37.9917 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "12797489324",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": null,
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "00000000-0000-0000-0000-000000000000..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-27 23:43:15.3509 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "00000000-0000-0000-0000-000000000000..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119991018914..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-27 23:44:02.8904 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "119991018914..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": null,
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-27 23:44:22.6499 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": null,
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119991018914..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:22:16.5164 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "119991018914..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119991018914.",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:22:20.7753 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "119991018914.",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119991018914.",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:22:27.2017 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "119991018914.",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": null,
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:22:37.2586 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": null,
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119991018914..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:22:43.1408 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "119991018914..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119991018914.",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:22:56.7771 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "119991018914.",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119991018914.",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:23:17.9844 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "119991018914.",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119991018914..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:23:38.8502 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "119991018914..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119991018914.",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:24:34.0346 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "119991018914.",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119991018914..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:28:21.9255 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "119991018914..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "119991018914..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:30:55.3442 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "119991018914..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "0d0fb5c4-e0eb-48ca-ab29-7b4a0e878e35..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:51:46.1589 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "0d0fb5c4-e0eb-48ca-ab29-7b4a0e878e35..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": null,
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:52:02.4984 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": null,
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "e7f51c49-9dab-4bfb-a6ac-b979e670f35c..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:52:10.3126 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "e7f51c49-9dab-4bfb-a6ac-b979e670f35c..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "3e1a2633-49f9-4bf8-883e-42f61400a644.",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:52:33.9838 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "3e1a2633-49f9-4bf8-883e-42f61400a644.",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "6a733123-b4e5-4883-872a-f0b6224854f3..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:54:29.2423 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 1,
+  "NationalNumber": "119992134354",
+  "FirstName": "محمد ",
+  "SecondName": "عبدالرزاق",
+  "ThirdName": "سالم",
+  "LastName": "المسلاتي",
+  "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+  "DateOfBirth": "1999-11-09T00:00:00",
+  "Gender": "ذكر",
+  "Address": "طريق المشتل عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "119992134354..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119992134354",
+  "FirstName": "محمد ",
+  "SecondName": "عبدالرزاق",
+  "ThirdName": "سالم",
+  "LastName": "المسلاتي",
+  "FullName": "محمد  عبدالرزاق سالم المسلاتي",
+  "DateOfBirth": "1999-11-09T00:00:00",
+  "Gender": "ذكر",
+  "Address": "طريق المشتل عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "c28d5556-c5af-42ce-ae50-f584bba5f528..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:58:29.0410 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "6a733123-b4e5-4883-872a-f0b6224854f3..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "c8a7b5ca-8b70-461b-b9b0-c98357fb1cb5.",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 00:59:05.0084 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "c8a7b5ca-8b70-461b-b9b0-c98357fb1cb5.",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "0d603f17-6aca-481e-ac82-29b56e1a20a3..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 01:14:32.2186 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": null,
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": null,
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 01:14:32.2186 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "0d603f17-6aca-481e-ac82-29b56e1a20a3..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": null,
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 01:14:52.3598 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": null,
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": null,
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 01:14:52.3598 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": null,
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": null,
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 01:19:43.1647 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": null,
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "05aaa4c7-b19f-48ed-ba0c-5c3fa2d9dd0b..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 01:19:48.2409 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "05aaa4c7-b19f-48ed-ba0c-5c3fa2d9dd0b..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "05aaa4c7-b19f-48ed-ba0c-5c3fa2d9dd0b..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 01:29:44.7682 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة طريق المشتل",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "05aaa4c7-b19f-48ed-ba0c-5c3fa2d9dd0b..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة الدبلوماسي",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "05aaa4c7-b19f-48ed-ba0c-5c3fa2d9dd0b..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 02:05:16.9560 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeletePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 113,
+  "NationalNumber": "119509080605",
+  "FirstName": "jskjflsj",
+  "SecondName": "jfsljgls",
+  "ThirdName": "jlfsjlgjs",
+  "LastName": "ljfsjglsj",
+  "FullName": "jskjflsj jfsljgls jlfsjlgjs ljfsjglsj",
+  "DateOfBirth": "1950-12-31T00:00:00",
+  "Gender": "ذكر",
+  "Address": "jglsjgljs",
+  "NationalityID": 97,
+  "MunicipalityID": 17,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "الحوامد",
+  "ImagePath": "d97b9760-a07a-472c-beec-171729cbf6d7..png",
+  "Age": 74
+}
+New State =>
+{
+  "DeletedBy": 1,
+  "DeletedPersonID": 113,
+  "Timestamp": "2025-08-28T00:05:16.9559876Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeletePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 02:10:17.4141 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeletePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 114,
+  "NationalNumber": "120078007000",
+  "FirstName": "jskfjsj",
+  "SecondName": "jflsjglsj",
+  "ThirdName": "jflsjglsj",
+  "LastName": "jlfljsjgls",
+  "FullName": "jskfjsj jflsjglsj jflsjglsj jlfljsjgls",
+  "DateOfBirth": "2007-08-28T02:06:57.357",
+  "Gender": "ذكر",
+  "Address": "fjlsjglsj",
+  "NationalityID": 97,
+  "MunicipalityID": 17,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "الحوامد",
+  "ImagePath": null,
+  "Age": 18
+}
+New State =>
+{
+  "DeletedBy": 1,
+  "DeletedPersonID": 114,
+  "Timestamp": "2025-08-28T00:10:17.4140809Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeletePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-28 02:12:47.8338 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeletePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 115,
+  "NationalNumber": "120077008000",
+  "FirstName": "jfsjgljs",
+  "SecondName": "jglsjgljs",
+  "ThirdName": "jlgsjlgjs",
+  "LastName": "jglsjglsj",
+  "FullName": "jfsjgljs jglsjgljs jlgsjlgjs jglsjglsj",
+  "DateOfBirth": "2007-08-28T02:10:20.407",
+  "Gender": "ذكر",
+  "Address": "jglsjglsj",
+  "NationalityID": 97,
+  "MunicipalityID": 17,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "الحوامد",
+  "ImagePath": null,
+  "Age": 18
+}
+New State =>
+{
+  "DeletedBy": 1,
+  "DeletedPersonID": 115,
+  "Timestamp": "2025-08-28T00:12:47.8338248Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeletePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-29 19:15:45.8607 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 3,
+  "NationalNumber": "119962113434",
+  "FirstName": "سالم",
+  "SecondName": "علي",
+  "ThirdName": "رمضان",
+  "LastName": "التهامي",
+  "FullName": "سالم علي رمضان التهامي",
+  "DateOfBirth": "1996-11-08T00:00:00",
+  "Gender": "ذكر",
+  "Address": "طريق المشتل عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "119962113434..jpg",
+  "Age": 28
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119962113434",
+  "FirstName": "سالم",
+  "SecondName": "علي",
+  "ThirdName": "رمضان",
+  "LastName": "التهامي",
+  "FullName": "سالم علي رمضان التهامي",
+  "DateOfBirth": "1996-11-08T00:00:00",
+  "Gender": "ذكر",
+  "Address": "طريق المشتل عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": null,
+  "Age": 28
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-29 19:16:06.8557 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 3,
+  "NationalNumber": "119962113434",
+  "FirstName": "سالم",
+  "SecondName": "علي",
+  "ThirdName": "رمضان",
+  "LastName": "التهامي",
+  "FullName": "سالم علي رمضان التهامي",
+  "DateOfBirth": "1996-11-08T00:00:00",
+  "Gender": "ذكر",
+  "Address": "طريق المشتل عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": null,
+  "Age": 28
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119962113434",
+  "FirstName": "سالم",
+  "SecondName": "علي",
+  "ThirdName": "رمضان",
+  "LastName": "التهامي",
+  "FullName": "سالم علي رمضان التهامي",
+  "DateOfBirth": "1996-11-08T00:00:00",
+  "Gender": "ذكر",
+  "Address": "طريق المشتل عين زارة",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "bf8da4b2-7e6f-41c4-9c38-e426552a9088..png",
+  "Age": 28
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-30 22:08:09.4375 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 103,
+  "NationalNumber": "119891010887",
+  "FirstName": "علي",
+  "SecondName": "محمد",
+  "ThirdName": "أحمد",
+  "LastName": "الصور",
+  "FullName": "علي محمد أحمد الصور",
+  "DateOfBirth": "1989-11-16T22:53:15",
+  "Gender": "ذكر",
+  "Address": "تاجوراء مراد أغا",
+  "NationalityID": 97,
+  "MunicipalityID": 61,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "تاجوراء",
+  "ImagePath": "119891010887..jpg",
+  "Age": 35
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119891010887",
+  "FirstName": "علي",
+  "SecondName": "محمد",
+  "ThirdName": "أحمد",
+  "LastName": "الصور",
+  "FullName": "علي محمد أحمد الصور",
+  "DateOfBirth": "1989-11-16T22:53:15",
+  "Gender": "ذكر",
+  "Address": "تاجوراء مراد أغا",
+  "NationalityID": 97,
+  "MunicipalityID": 61,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "a308ee32-17bd-4e92-82b7-738450a7c453..jpg",
+  "Age": 35
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-30 22:08:39.2842 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 101,
+  "NationalNumber": "220008090776",
+  "FirstName": "جميلة",
+  "SecondName": "حسن",
+  "ThirdName": "علي",
+  "LastName": "الرماح",
+  "FullName": "جميلة حسن علي الرماح",
+  "DateOfBirth": "2000-02-29T07:58:07",
+  "Gender": "أنثى",
+  "Address": "عين زارة القرقني",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": null,
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "220008090776",
+  "FirstName": "جميلة",
+  "SecondName": "حسن",
+  "ThirdName": "علي",
+  "LastName": "الرماح",
+  "FullName": "جميلة حسن علي الرماح",
+  "DateOfBirth": "2000-02-29T07:58:07",
+  "Gender": "أنثى",
+  "Address": "عين زارة القرقني",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "4400d9a3-d9c3-478c-98dc-fed771cf9381..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-30 22:11:34.1571 | INFO | TransactionLogger
+ User: user13
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = user13
+Entity = Person
+Old State =>
+{
+  "ID": 116,
+  "NationalNumber": "119791592361",
+  "FirstName": "علي",
+  "SecondName": "مسعود",
+  "ThirdName": "رمضان",
+  "LastName": "الأسود",
+  "FullName": "علي مسعود رمضان الأسود",
+  "DateOfBirth": "1979-08-08T00:00:00",
+  "Gender": "أنثى",
+  "Address": "شارع 15 الطير سوق الجمعة",
+  "NationalityID": 97,
+  "MunicipalityID": 88,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "سوق الجمعة",
+  "ImagePath": "",
+  "Age": 46
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119791592361",
+  "FirstName": "علي",
+  "SecondName": "مسعود",
+  "ThirdName": "رمضان",
+  "LastName": "الأسود",
+  "FullName": "علي مسعود رمضان الأسود",
+  "DateOfBirth": "1979-08-08T00:00:00",
+  "Gender": "ذكر",
+  "Address": "شارع 15 الطير سوق الجمعة",
+  "NationalityID": 97,
+  "MunicipalityID": 88,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": null,
+  "Age": 46
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=user13, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-30 22:21:04.4353 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeletePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 116,
+  "NationalNumber": "119791592361",
+  "FirstName": "علي",
+  "SecondName": "مسعود",
+  "ThirdName": "رمضان",
+  "LastName": "الأسود",
+  "FullName": "علي مسعود رمضان الأسود",
+  "DateOfBirth": "1979-08-08T00:00:00",
+  "Gender": "ذكر",
+  "Address": "شارع 15 الطير سوق الجمعة",
+  "NationalityID": 97,
+  "MunicipalityID": 88,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "سوق الجمعة",
+  "ImagePath": null,
+  "Age": 46
+}
+New State =>
+{
+  "DeletedBy": 1,
+  "DeletedPersonID": 116,
+  "Timestamp": "2025-08-30T20:21:04.4351742Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeletePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-30 22:22:51.6702 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 103,
+  "NationalNumber": "119891010887",
+  "FirstName": "علي",
+  "SecondName": "محمد",
+  "ThirdName": "أحمد",
+  "LastName": "الصور",
+  "FullName": "علي محمد أحمد الصور",
+  "DateOfBirth": "1989-11-16T22:53:15",
+  "Gender": "ذكر",
+  "Address": "تاجوراء مراد أغا",
+  "NationalityID": 97,
+  "MunicipalityID": 61,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "تاجوراء",
+  "ImagePath": "a308ee32-17bd-4e92-82b7-738450a7c453..jpg",
+  "Age": 35
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "219891010887",
+  "FirstName": "علي",
+  "SecondName": "محمد",
+  "ThirdName": "أحمد",
+  "LastName": "الصور",
+  "FullName": "علي محمد أحمد الصور",
+  "DateOfBirth": "1989-11-16T22:53:15",
+  "Gender": "أنثى",
+  "Address": "تاجوراء مراد أغا",
+  "NationalityID": 97,
+  "MunicipalityID": 61,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "a308ee32-17bd-4e92-82b7-738450a7c453..jpg",
+  "Age": 35
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-30 22:22:59.6073 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 103,
+  "NationalNumber": "219891010887",
+  "FirstName": "علي",
+  "SecondName": "محمد",
+  "ThirdName": "أحمد",
+  "LastName": "الصور",
+  "FullName": "علي محمد أحمد الصور",
+  "DateOfBirth": "1989-11-16T22:53:15",
+  "Gender": "أنثى",
+  "Address": "تاجوراء مراد أغا",
+  "NationalityID": 97,
+  "MunicipalityID": 61,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "تاجوراء",
+  "ImagePath": "a308ee32-17bd-4e92-82b7-738450a7c453..jpg",
+  "Age": 35
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119891010887",
+  "FirstName": "علي",
+  "SecondName": "محمد",
+  "ThirdName": "أحمد",
+  "LastName": "الصور",
+  "FullName": "علي محمد أحمد الصور",
+  "DateOfBirth": "1989-11-16T22:53:15",
+  "Gender": "ذكر",
+  "Address": "تاجوراء مراد أغا",
+  "NationalityID": 97,
+  "MunicipalityID": 61,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "a308ee32-17bd-4e92-82b7-738450a7c453..jpg",
+  "Age": 35
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-08-30 22:31:19.3457 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: DeletePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 117,
+  "NationalNumber": "119791592361",
+  "FirstName": "علي",
+  "SecondName": "مسعود",
+  "ThirdName": "رمضان",
+  "LastName": "الأسود",
+  "FullName": "علي مسعود رمضان الأسود",
+  "DateOfBirth": "1979-08-08T00:00:00",
+  "Gender": "أنثى",
+  "Address": "شارع 15 الطير سوق الجمعة",
+  "NationalityID": 97,
+  "MunicipalityID": 88,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "سوق الجمعة",
+  "ImagePath": "",
+  "Age": 46
+}
+New State =>
+{
+  "DeletedBy": 1,
+  "DeletedPersonID": 117,
+  "Timestamp": "2025-08-30T20:31:19.3457124Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeletePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-09-04 03:55:55.0149 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T23:28:57",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة الدبلوماسي",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "05aaa4c7-b19f-48ed-ba0c-5c3fa2d9dd0b..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "120071018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "2007-06-13T03:54:46",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة الدبلوماسي",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "05aaa4c7-b19f-48ed-ba0c-5c3fa2d9dd0b..jpg",
+  "Age": 18
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-09-04 03:56:13.9926 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "120071018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "2007-06-13T03:54:46",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة الدبلوماسي",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "05aaa4c7-b19f-48ed-ba0c-5c3fa2d9dd0b..jpg",
+  "Age": 18
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "120071018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "2007-06-13T03:54:46",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة الدبلوماسي",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "031dbb3d-abd9-481b-a2ad-01fd7e0b6608..jpg",
+  "Age": 18
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-09-05 00:50:59.3748 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "120071018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "2007-06-13T03:54:46",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة الدبلوماسي",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "031dbb3d-abd9-481b-a2ad-01fd7e0b6608..jpg",
+  "Age": 18
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T03:54:46",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة الدبلوماسي",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "031dbb3d-abd9-481b-a2ad-01fd7e0b6608..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-09-05 00:51:23.1886 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Person
+ Class: PeopleController
+ Method: UpdatePerson
+ Transaction by user = adminm1
+Entity = Person
+Old State =>
+{
+  "ID": 88,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T03:54:46",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة الدبلوماسي",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": "ليبيا",
+  "MunicipalityName": "عين زارة",
+  "ImagePath": "031dbb3d-abd9-481b-a2ad-01fd7e0b6608..jpg",
+  "Age": 25
+}
+New State =>
+{
+  "ID": -1,
+  "NationalNumber": "119991018914",
+  "FirstName": "عبدالقادر",
+  "SecondName": "فوزي",
+  "ThirdName": "عبدالقادر",
+  "LastName": "الزبيدي",
+  "FullName": "عبدالقادر فوزي عبدالقادر الزبيدي",
+  "DateOfBirth": "1999-10-16T03:54:46",
+  "Gender": "ذكر",
+  "Address": "طرابلس عين زارة الدبلوماسي",
+  "NationalityID": 97,
+  "MunicipalityID": 97,
+  "CountryName": null,
+  "MunicipalityName": null,
+  "ImagePath": "019b9fa4-6f0f-4587-828a-6e68328009ae..jpg",
+  "Age": 25
+}
+ Parameters:
+ Class=PeopleController, Method=UpdatePerson, User=adminm1, Entity=Person
+ -------------------------------------
+ 
+-------------------------------------
+ 2025-09-07 09:35:57.5974 | INFO | TransactionLogger
+ User: adminm1
+ Entity: Request
+ Class: PeopleController
+ Method: DeleteApplication
+ Transaction by user = adminm1
+Entity = Request
+Old State =>
+{
+  "ID": 34,
+  "NationalNumber": "119882341671",
+  "person": {
+    "ID": 108,
+    "NationalNumber": "119882341671",
+    "FirstName": "مسعود",
+    "SecondName": "مجمد",
+    "ThirdName": "مسعود",
+    "LastName": "الأسود",
+    "FullName": "مسعود مجمد مسعود الأسود",
+    "DateOfBirth": "1988-08-05T23:40:55",
+    "Gender": "ذكر",
+    "Address": "جزيرة الغيران السراج",
+    "NationalityID": 97,
+    "MunicipalityID": 70,
+    "CountryName": "ليبيا",
+    "MunicipalityName": "جنزور",
+    "ImagePath": "119882341671..jpg",
+    "Age": 37
+  },
+  "RequestTypeID": 1,
+  "LicenseClassID": 2,
+  "LicenseID": null,
+  "PhoneNumber": null,
+  "Email": null,
+  "license": null,
+  "RequestStatusID": 4,
+  "status": {
+    "ID": 4,
+    "Name": "مكتمل"
+  },
+  "licenseClass": {
+    "ID": 2,
+    "Name": "فئة أولى (ب)",
+    "Description": "رخصة قيادة السيارات الصغيرة",
+    "Age": 18,
+    "ValidatyLength": 10,
+    "Fees": 15.0000
+  },
+  "requestType": {
+    "ID": 1,
+    "Fee": 20.7500,
+    "Type": "تقديم  طلب استخراج رخصة محلية جديدة"
+  },
+  "FeeAmount": 35.7500,
+  "IsPaid": true,
+  "PaymentTimeStamps": "2025-09-07T09:34:43.277",
+  "TheTypeOfRequest": "تقديم  طلب استخراج رخصة محلية جديدة",
+  "CreateDate": "2025-09-07T09:32:19.687",
+  "UpdateDate": "2025-09-07T09:34:43.277"
+}
+New State =>
+{
+  "DeletedBy": "adminm1",
+  "DeletedPersonID": 34,
+  "Timestamp": "2025-09-07T07:35:57.1740196Z"
+}
+ Parameters:
+ Class=PeopleController, Method=DeleteApplication, User=adminm1, Entity=Request
+ -------------------------------------
+ 

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iXHiS/qi7E0I9wOUP3U9gEasiGrDGMVo5Q0biMmMuYw=",
+  "Source": "DLMS_SERVER",
+  "BasePath": "_content/DLMS_SERVER",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

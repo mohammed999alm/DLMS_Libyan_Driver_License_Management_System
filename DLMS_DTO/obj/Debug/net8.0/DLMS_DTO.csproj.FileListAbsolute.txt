@@ -1,0 +1,36 @@
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DTO\bin\Debug\net8.0\DLMS_DTO.deps.json
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DTO\bin\Debug\net8.0\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DTO\bin\Debug\net8.0\DLMS_DTO.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.csproj.AssemblyReference.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.AssemblyInfoInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.AssemblyInfo.cs
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.csproj.CoreCompileInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DTO\obj\Debug\net8.0\refint\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DTO\obj\Debug\net8.0\ref\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DTO\bin\Debug\net8.0\DLMS_DTO.deps.json
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DTO\bin\Debug\net8.0\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DTO\bin\Debug\net8.0\DLMS_DTO.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.csproj.AssemblyReference.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.AssemblyInfoInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.AssemblyInfo.cs
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.csproj.CoreCompileInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DTO\obj\Debug\net8.0\refint\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DTO\obj\Debug\net8.0\ref\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DTO\bin\Debug\net8.0\DLMS_DTO.deps.json
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DTO\bin\Debug\net8.0\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DTO\bin\Debug\net8.0\DLMS_DTO.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.csproj.AssemblyReference.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.AssemblyInfoInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.AssemblyInfo.cs
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.csproj.CoreCompileInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DTO\obj\Debug\net8.0\refint\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DTO\obj\Debug\net8.0\DLMS_DTO.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DTO\obj\Debug\net8.0\ref\DLMS_DTO.dll

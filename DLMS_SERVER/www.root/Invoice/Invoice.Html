@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>نموذج طلب خدمة</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap');
+
+        html, body {
+            font-family: 'Cairo', sans-serif;
+            font-size: 20px;
+            line-height: 1.9;
+            margin: 0;
+            padding: 0;
+            direction: rtl;
+            width: 210mm;
+            height: 297mm;
+            background-color: #f9f9f9;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            height: 100%;
+            padding: 40px 50px;
+            background-color: #e9f0e7;
+            box-sizing: border-box;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .header img {
+            max-width: 120px;
+            margin-bottom: 10px;
+        }
+
+        .header h2 {
+            margin: 0;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .content {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 6px;
+            border: 1px solid #ddd;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        p {
+            margin-bottom: 20px;
+            page-break-inside: avoid;
+        }
+
+        label {
+            font-weight: bold;
+        }
+
+        .date {
+            text-align: left;
+            font-size: 18px;
+        }
+
+        .footer {
+            display: flex;
+            justify-content: space-between;
+            flex-direction: row-reverse;
+            margin-top: 40px;
+        }
+
+        .signature {
+            width: 45%;
+            text-align: center;
+        }
+
+        .signature-line {
+            display: block;
+            margin-top: 15px;
+            border-top: 1px solid #000;
+            height: 2px;
+        }
+
+        @media print {
+            html, body {
+                width: 210mm;
+                height: 297mm;
+                overflow: hidden;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="{imageurl}" alt="شعار الجهة">
+            <h2>طلب خدمة مرورية</h2>
+        </div>
+
+        <div class="content">
+            <div>
+                <p>
+                    إلى من يهمه الأمر،<br><br>
+                    أرفع لسيادتكم هذا الطلب راجيًا التكرم بالنظر فيه، حيث إنني أنا المواطن/
+                    <label>{fullname}</label>، المقيد بالرقم الوطني <label>{nationalId}</label>، 
+                    أتقدم بهذا الخطاب إلى قسم <label>شؤون المرور والتراخيص</label>، راجيًا التفضل بالموافقة على طلبي التالي:
+                </p>
+
+                <p style="text-align:center;">
+                    <label>{requestType}</label>
+                </p>
+
+                <p>
+                    أتعهد بأن كافة البيانات الواردة أعلاه صحيحة وتحت مسؤوليتي الكاملة، وأقر بأني مستوفي لكافة الشروط والمتطلبات اللازمة لتقديم هذا الطلب.
+                </p>
+            </div>
+
+            <div class="date">
+                التاريخ: <label>{requestDate}</label>
+            </div>
+        </div>
+
+        <div class="footer">
+            <div class="signature">
+                توقيع رئيس قسم شؤون المرور والتراخيص
+                <span class="signature-line"></span>
+            </div>
+            <div class="signature">
+                توقيع مقدم الطلب
+                <span class="signature-line"></span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

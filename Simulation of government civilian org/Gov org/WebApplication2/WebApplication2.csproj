@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Images\**" />
+    <Content Remove="Images\**" />
+    <EmbeddedResource Remove="Images\**" />
+    <None Remove="Images\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BusinessLogicLayer">
+      <HintPath>..\BusinessLogicDLVD\bin\Debug\net8.0\BusinessLogicLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="DataAccessLayer">
+      <HintPath>..\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="DTO_Layer">
+      <HintPath>..\BusinessLogicDLVD\bin\Debug\net8.0\DTO_Layer.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="root\" />
+  </ItemGroup>
+
+</Project>

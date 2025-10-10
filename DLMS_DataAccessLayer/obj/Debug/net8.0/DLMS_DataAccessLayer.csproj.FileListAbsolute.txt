@@ -1,0 +1,51 @@
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\bin\Debug\net8.0\DLMS_DataAccessLayer.deps.json
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\bin\Debug\net8.0\DLMS_DataAccessLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\bin\Debug\net8.0\DLMS_DataAccessLayer.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\bin\Debug\net8.0\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\bin\Debug\net8.0\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\bin\Debug\net8.0\DLMS_DTO.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\bin\Debug\net8.0\GlobalUtility.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.AssemblyInfo.cs
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_Dat.87132BAF.Up2Date
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\obj\Debug\net8.0\refint\DLMS_DataAccessLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\obj\Debug\net8.0\ref\DLMS_DataAccessLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\bin\Debug\net8.0\DLMS_DataAccessLayer.deps.json
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\bin\Debug\net8.0\DLMS_DataAccessLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\bin\Debug\net8.0\DLMS_DataAccessLayer.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\bin\Debug\net8.0\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\bin\Debug\net8.0\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\bin\Debug\net8.0\DLMS_DTO.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\bin\Debug\net8.0\GlobalUtility.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.AssemblyInfo.cs
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_Dat.87132BAF.Up2Date
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\obj\Debug\net8.0\refint\DLMS_DataAccessLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS_DataAccessLayer\obj\Debug\net8.0\ref\DLMS_DataAccessLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\bin\Debug\net8.0\DLMS_DataAccessLayer.deps.json
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\bin\Debug\net8.0\DLMS_DataAccessLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\bin\Debug\net8.0\DLMS_DataAccessLayer.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\bin\Debug\net8.0\DLMS_DTO.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\bin\Debug\net8.0\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\bin\Debug\net8.0\DLMS_DTO.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\bin\Debug\net8.0\GlobalUtility.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.AssemblyInfo.cs
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_Dat.87132BAF.Up2Date
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\obj\Debug\net8.0\refint\DLMS_DataAccessLayer.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\obj\Debug\net8.0\DLMS_DataAccessLayer.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\DLMS_DataAccessLayer\obj\Debug\net8.0\ref\DLMS_DataAccessLayer.dll

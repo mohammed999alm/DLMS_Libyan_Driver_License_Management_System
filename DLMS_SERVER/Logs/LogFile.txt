@@ -1,0 +1,481 @@
+-------------------------------------
+2025-06-04 01:58:44.6169 | ERROR
+The parameterized query '(@appType nvarchar(4000))SELECT * FROM ApplicationsView
+       ' expects the parameter '@appType', which was not supplied.
+-------------------------------------
+SqlException The parameterized query '(@appType nvarchar(4000))SELECT * FROM ApplicationsView
+       ' expects the parameter '@appType', which was not supplied.
+-------------------------------------
+2025-07-25 19:34:54.1543 | ERROR
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+-------------------------------------
+InvalidOperationException ExecuteReader requires an open and available Connection. The connection's current state is closed.
+-------------------------------------
+2025-07-25 19:52:09.3429 | ERROR
+LicenseClassID
+-------------------------------------
+IndexOutOfRangeException LicenseClassID
+-------------------------------------
+2025-07-25 19:52:25.8681 | ERROR
+LicenseClassID
+-------------------------------------
+IndexOutOfRangeException LicenseClassID
+-------------------------------------
+2025-07-25 19:56:10.1935 | ERROR
+LicenseClassID
+-------------------------------------
+IndexOutOfRangeException LicenseClassID
+-------------------------------------
+2025-07-29 02:11:12.3639 | ERROR
+ExecuteScalar requires an open and available Connection. The connection's current state is closed.
+-------------------------------------
+InvalidOperationException ExecuteScalar requires an open and available Connection. The connection's current state is closed.
+-------------------------------------
+ 2025-07-29 05:44:04.1068 | ERROR
+ Class: LicenseDataAccess
+ Method: GetPreviousLicenseID
+ Exception in LicenseDataAccess.GetPreviousLicenseID
+ Parameters:
+ Param_appType: 
+ -------------------------------------
+ SqlException Must declare the scalar variable "@driverID".    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at DLMS_DataAccessLayer.LicenseDataAccess.GetPreviousLicenseID(Int32 driverID, Int32 licenseID) in C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\LicenseDataAccess.cs:line 288
+-------------------------------------
+ 2025-07-29 05:48:51.6210 | ERROR
+ Class: LicenseDataAccess
+ Method: GetPreviousLicenseID
+ Exception in LicenseDataAccess.GetPreviousLicenseID
+ Parameters:
+ Param_appType: 
+ -------------------------------------
+ SqlException Must declare the scalar variable "@driverID".    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at DLMS_DataAccessLayer.LicenseDataAccess.GetPreviousLicenseID(Int32 driverID, Int32 licenseID) in C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\LicenseDataAccess.cs:line 288
+-------------------------------------
+ 2025-07-29 05:48:53.0109 | ERROR
+ Class: LicenseDataAccess
+ Method: GetPreviousLicenseID
+ Exception in LicenseDataAccess.GetPreviousLicenseID
+ Parameters:
+ Param_appType: 
+ -------------------------------------
+ SqlException Must declare the scalar variable "@driverID".    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at DLMS_DataAccessLayer.LicenseDataAccess.GetPreviousLicenseID(Int32 driverID, Int32 licenseID) in C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\LicenseDataAccess.cs:line 288
+-------------------------------------
+ 2025-07-29 05:51:30.1284 | ERROR
+ Class: LicenseDataAccess
+ Method: GetPreviousLicenseID
+ Exception in LicenseDataAccess.GetPreviousLicenseID
+ Parameters:
+ Param_appType: 
+ -------------------------------------
+ SqlException Must declare the scalar variable "@driverID".    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at DLMS_DataAccessLayer.LicenseDataAccess.GetPreviousLicenseID(Int32 driverID, Int32 licenseID) in C:\Users\nitro 5\source\repos\Driving license management system server\DLMS_DataAccessLayer\LicenseDataAccess.cs:line 288
+-------------------------------------
+ 2025-07-29 05:56:32.2795 | ERROR
+ Class: LicenseDataAccess
+ Method: GetPreviousLicenseID
+ Exception in LicenseDataAccess.GetPreviousLicenseID
+ Parameters:
+ Class=LicenseDataAccess, Method=GetPreviousLicenseID, Param_driverID=1, Param_licenseID=76
+ -------------------------------------
+ System.Exception SqlException: Must declare the scalar variable "@driverID".
+-------------------------------------
+ 2025-07-29 06:06:10.1790 | ERROR
+ Class: LicenseDataAccess
+ Method: GetPreviousLicenseID
+ Exception in LicenseDataAccess.GetPreviousLicenseID
+ Parameters:
+ Class=LicenseDataAccess, Method=GetPreviousLicenseID, Param_driverID=1, Param_licenseID=76
+ -------------------------------------
+ System.Exception InvalidOperationException: ExecuteScalar requires an open and available Connection. The connection's current state is closed.
+-------------------------------------
+ 2025-08-03 15:38:55.7132 | ERROR
+ Class: LocalLicenseApplicationDataAccess
+ Method: GetTestAppointmentAttemptsBasedOnLocalLicenseAppIdAndTestType
+ Exception in LocalLicenseApplicationDataAccess.GetTestAppointmentAttemptsBasedOnLocalLicenseAppIdAndTestType
+ Parameters:
+ Class=LocalLicenseApplicationDataAccess, Method=GetTestAppointmentAttemptsBasedOnLocalLicenseAppIdAndTestType, Param_localLicenseAppID=1, Param_testType=الفحص الطبي
+ -------------------------------------
+ System.Exception SqlException: Must declare the scalar variable "@localLicenseAppID".
+-------------------------------------
+ 2025-08-03 15:49:29.6301 | ERROR
+ Class: LocalLicenseApplicationDataAccess
+ Method: GetTestAppointmentAttemptsBasedOnLocalLicenseAppIdAndTestType
+ Exception in LocalLicenseApplicationDataAccess.GetTestAppointmentAttemptsBasedOnLocalLicenseAppIdAndTestType
+ Parameters:
+ Class=LocalLicenseApplicationDataAccess, Method=GetTestAppointmentAttemptsBasedOnLocalLicenseAppIdAndTestType, Param_localLicenseAppID=1, Param_testType=الفحص الطبي
+ -------------------------------------
+ System.Exception SqlException: Invalid column name 'testType'.
+-------------------------------------
+ 2025-08-04 09:00:48.0876 | ERROR
+ Class: LocalLicenseApplicationDataAccess
+ Method: GetTestAppointmentAttemptsBasedOnLocalLicenseAppIdAndTestType
+ Exception in LocalLicenseApplicationDataAccess.GetTestAppointmentAttemptsBasedOnLocalLicenseAppIdAndTestType
+ Parameters:
+ Class=LocalLicenseApplicationDataAccess, Method=GetTestAppointmentAttemptsBasedOnLocalLicenseAppIdAndTestType, Param_localLicenseAppID=11, Param_testType=الفحص الطبي
+ -------------------------------------
+ System.Exception NullReferenceException: Object reference not set to an instance of an object.
+-------------------------------------
+ 2025-08-06 21:30:54.6980 | ERROR
+ Class: RequestDataAccess
+ Method: GetAllRequestsDetails
+ Exception in RequestDataAccess.GetAllRequestsDetails
+ Parameters:
+ Class=RequestDataAccess, Method=GetAllRequestsDetails
+ -------------------------------------
+ System.Exception InvalidCastException: Unable to cast object of type 'System.DBNull' to type 'System.Int32'.
+-------------------------------------
+ 2025-08-06 21:56:09.3970 | ERROR
+ Class: RequestDataAccess
+ Method: GetAllRequestsDetails
+ Exception in RequestDataAccess.GetAllRequestsDetails
+ Parameters:
+ Class=RequestDataAccess, Method=GetAllRequestsDetails
+ -------------------------------------
+ System.Exception IndexOutOfRangeException: RequestTypeTitle
+-------------------------------------
+ 2025-08-06 21:58:04.2197 | ERROR
+ Class: RequestDataAccess
+ Method: GetAllRequestsDetails
+ Exception in RequestDataAccess.GetAllRequestsDetails
+ Parameters:
+ Class=RequestDataAccess, Method=GetAllRequestsDetails
+ -------------------------------------
+ System.Exception IndexOutOfRangeException: RequestDate
+-------------------------------------
+ 2025-08-06 22:01:53.9058 | ERROR
+ Class: RequestDataAccess
+ Method: GetAllRequestsDetails
+ Exception in RequestDataAccess.GetAllRequestsDetails
+ Parameters:
+ Class=RequestDataAccess, Method=GetAllRequestsDetails
+ -------------------------------------
+ System.Exception IndexOutOfRangeException: LastStatusDate
+-------------------------------------
+ 2025-08-06 22:03:30.4182 | ERROR
+ Class: RequestDataAccess
+ Method: GetAllRequestsDetails
+ Exception in RequestDataAccess.GetAllRequestsDetails
+ Parameters:
+ Class=RequestDataAccess, Method=GetAllRequestsDetails
+ -------------------------------------
+ System.Exception IndexOutOfRangeException: تاريخ الدفع
+-------------------------------------
+ 2025-08-06 22:06:00.6883 | ERROR
+ Class: RequestDataAccess
+ Method: GetAllRequestsDetails
+ Exception in RequestDataAccess.GetAllRequestsDetails
+ Parameters:
+ Class=RequestDataAccess, Method=GetAllRequestsDetails
+ -------------------------------------
+ System.Exception InvalidCastException: Unable to cast object of type 'System.DBNull' to type 'System.Decimal'.
+-------------------------------------
+ 2025-08-15 08:48:06.5507 | ERROR
+ Class: UserDataAccess
+ Method: UpdateUser
+ Exception in UserDataAccess.UpdateUser
+ Parameters:
+ Class=UserDataAccess, Method=UpdateUser, Param_UserID=11, Param_Password=NCz46hRZ9CkTnQiCaDsQH67izKiYmdgtama6jDHFZlAsgtMvjMn4cedr+YXS7Uau, Param_UserRole=2, Param_IsActive=True, Param_FailAttempts=0
+ -------------------------------------
+ System.Exception SqlException: String or binary data would be truncated in table 'DLMS.dbo.Users', column 'Password'. Truncated value: 'NCz46hRZ9CkTnQiCaDsQ'.
+The statement has been terminated.
+-------------------------------------
+ 2025-08-15 08:55:02.0106 | ERROR
+ Class: UserDataAccess
+ Method: UpdateUser
+ Exception in UserDataAccess.UpdateUser
+ Parameters:
+ Class=UserDataAccess, Method=UpdateUser, Param_UserID=11, Param_Password=wVnsAxYnnLw0zcnAFK5Hke4EP5jy68Md3rOKGNpZQbAiViDjOTKvwauHRW/ekTlg, Param_UserRole=2, Param_IsActive=True, Param_FailAttempts=0
+ -------------------------------------
+ System.Exception SqlException: String or binary data would be truncated in table 'DLMS.dbo.Users', column 'Password'. Truncated value: 'wVnsAxYnnLw0zcnAFK5H'.
+The statement has been terminated.
+-------------------------------------
+ 2025-08-15 08:56:26.8254 | ERROR
+ Class: UserDataAccess
+ Method: UpdateUser
+ Exception in UserDataAccess.UpdateUser
+ Parameters:
+ Class=UserDataAccess, Method=UpdateUser, Param_UserID=11, Param_Password=XGcOKAjobdEAGblnRrtFON1vScrGxcdqitXIDaa99YRFHO5GsyQjeBjNPMo078zK, Param_UserRole=2, Param_IsActive=True, Param_FailAttempts=0
+ -------------------------------------
+ System.Exception SqlException: String or binary data would be truncated in table 'DLMS.dbo.Users', column 'Password'. Truncated value: 'XGcOKAjobdEAGblnRrtF'.
+The statement has been terminated.
+-------------------------------------
+ 2025-08-15 10:21:57.9311 | ERROR
+ Class: LicenseDataAccess
+ Method: GetPreviousLicenseID
+ Exception in LicenseDataAccess.GetPreviousLicenseID
+ Parameters:
+ Class=LicenseDataAccess, Method=GetPreviousLicenseID, Param_driverID=10, Param_licenseID=85
+ -------------------------------------
+ System.Exception NullReferenceException: Object reference not set to an instance of an object.
+-------------------------------------
+ 2025-08-15 10:55:58.6129 | ERROR
+ Class: LicenseDataAccess
+ Method: GetPreviousLicenseID
+ Exception in LicenseDataAccess.GetPreviousLicenseID
+ Parameters:
+ Class=LicenseDataAccess, Method=GetPreviousLicenseID, Param_driverID=10, Param_licenseID=85
+ -------------------------------------
+ System.Exception NullReferenceException: Object reference not set to an instance of an object.
+-------------------------------------
+ 2025-08-19 15:58:08.1783 | ERROR | DatabaseLogger
+ Class: ApplicationDataAccess
+ Method: FindByRequestID
+ Exception in ApplicationDataAccess.FindByRequestID
+ Parameters:
+ Class=ApplicationDataAccess, Method=FindByRequestID, Param_ID=-1, Param_ApplicantPersonID=-1, Param_ApplicationTypeID=-1,
+ Param_ApplicationDate=1/1/0001 12:00:00 AM, Param_ApplicationStatusID=-1,
+ Param_LastStatusDate=null, Param_PaidFees=0, Param_CreatedByUserID=-1, Param_UpdatedByUserID=null, Param_RequestID=7, 
+ Param_IsFound=False
+ -------------------------------------
+ System.Exception SqlException: Must declare the scalar variable "@RequestID".
+-------------------------------------
+ 2025-08-20 03:55:37.4195 | ERROR | DatabaseLogger
+ Class: LocalLicenseApplicationDataAccess
+ Method: DeleteLocalLicenseApplication
+ Exception in LocalLicenseApplicationDataAccess.DeleteLocalLicenseApplication
+ Parameters:
+ Class=LocalLicenseApplicationDataAccess, Method=DeleteLocalLicenseApplication, Param_LocalAppID=5
+ -------------------------------------
+ System.Exception SqlException: Invalid object name 'TestAppointmentes'.
+-------------------------------------
+ 2025-08-20 03:55:43.5078 | ERROR | DatabaseLogger
+ Class: LocalLicenseApplicationDataAccess
+ Method: DeleteLocalLicenseApplication
+ Exception in LocalLicenseApplicationDataAccess.DeleteLocalLicenseApplication
+ Parameters:
+ Class=LocalLicenseApplicationDataAccess, Method=DeleteLocalLicenseApplication, Param_LocalAppID=5
+ -------------------------------------
+ System.Exception SqlException: Invalid object name 'TestAppointmentes'.
+-------------------------------------
+ 2025-08-20 03:55:58.6263 | ERROR | DatabaseLogger
+ Class: LocalLicenseApplicationDataAccess
+ Method: DeleteLocalLicenseApplication
+ Exception in LocalLicenseApplicationDataAccess.DeleteLocalLicenseApplication
+ Parameters:
+ Class=LocalLicenseApplicationDataAccess, Method=DeleteLocalLicenseApplication, Param_LocalAppID=5
+ -------------------------------------
+ System.Exception SqlException: Invalid object name 'TestAppointmentes'.
+-------------------------------------
+ 2025-08-20 04:27:21.9762 | ERROR | DatabaseLogger
+ Class: RequestTransactions
+ Method: DeleteRequest
+ Exception in RequestTransactions.DeleteRequest
+ Parameters:
+ Class=RequestTransactions, Method=DeleteRequest, Param_RequestID=18
+ -------------------------------------
+ System.Exception SqlException: Invalid object name 'TestAppointmentes'.
+-------------------------------------
+ 2025-08-20 04:27:27.7666 | ERROR | DatabaseLogger
+ Class: RequestTransactions
+ Method: DeleteRequest
+ Exception in RequestTransactions.DeleteRequest
+ Parameters:
+ Class=RequestTransactions, Method=DeleteRequest, Param_RequestID=18
+ -------------------------------------
+ System.Exception SqlException: Invalid object name 'TestAppointmentes'.
+-------------------------------------
+ 2025-08-20 04:30:46.6438 | ERROR | DatabaseLogger
+ Class: RequestTransactions
+ Method: DeleteRequest
+ Exception in RequestTransactions.DeleteRequest
+ Parameters:
+ Class=RequestTransactions, Method=DeleteRequest, Param_RequestID=18
+ -------------------------------------
+ System.Exception SqlException: Invalid object name 'TestAppointmentes'.
+-------------------------------------
+ 2025-08-20 04:56:57.4611 | ERROR | DatabaseLogger
+ Class: RequestTransactions
+ Method: DeleteRequest
+ Exception in RequestTransactions.DeleteRequest
+ Parameters:
+ Class=RequestTransactions, Method=DeleteRequest, Param_RequestID=19
+ -------------------------------------
+ System.Exception InvalidOperationException: This SqlTransaction has completed; it is no longer usable.
+-------------------------------------
+ 2025-08-20 04:56:57.5172 | ERROR | DatabaseLogger
+ Class: RequestTransactions
+ Method: DeleteRequest
+ Exception in RequestTransactions.DeleteRequest
+ Parameters:
+ Class=RequestTransactions, Method=DeleteRequest, Param_RequestID=19
+ -------------------------------------
+ System.Exception InvalidOperationException: This SqlTransaction has completed; it is no longer usable.
+-------------------------------------
+ 2025-08-21 22:16:27.2963 | ERROR | DatabaseLogger
+ Class: Application
+ Method: _RetakeTestApplication
+ Exception in Application._RetakeTestApplication
+ Parameters:
+ Class=Application, Method=_RetakeTestApplication, Param_CreatedByUserID=1, Param_AppType=تقديم طلب لتجديد رخصة, Param_enAppType=RenewLicenseApp
+ -------------------------------------
+ System.Exception InvalidConstraintException: The retake test application should be referenced to main application with type of new local license applicaiton
+-------------------------------------
+ 2025-08-21 22:17:06.7520 | ERROR | DatabaseLogger
+ Class: ApplicationDataAccess
+ Method: DeleteApplication
+ Exception in ApplicationDataAccess.DeleteApplication
+ Parameters:
+ Class=ApplicationDataAccess, Method=DeleteApplication, Param_ApplicationID=174
+ -------------------------------------
+ System.Exception SqlException: The DELETE statement conflicted with the REFERENCE constraint "FK__Licenses__Applic__0F624AF8". The conflict occurred in database "DLMS", table "dbo.Licenses", column 'ApplicationID'.
+The statement has been terminated.
+-------------------------------------
+ 2025-08-21 22:17:13.4559 | ERROR | DatabaseLogger
+ Class: ApplicationDataAccess
+ Method: DeleteApplication
+ Exception in ApplicationDataAccess.DeleteApplication
+ Parameters:
+ Class=ApplicationDataAccess, Method=DeleteApplication, Param_ApplicationID=174
+ -------------------------------------
+ System.Exception SqlException: The DELETE statement conflicted with the REFERENCE constraint "FK__Licenses__Applic__0F624AF8". The conflict occurred in database "DLMS", table "dbo.Licenses", column 'ApplicationID'.
+The statement has been terminated.
+-------------------------------------
+ 2025-08-21 22:25:26.5665 | ERROR | DatabaseLogger
+ Class: ApplicationDataAccess
+ Method: DeleteApplication
+ Exception in ApplicationDataAccess.DeleteApplication
+ Parameters:
+ Class=ApplicationDataAccess, Method=DeleteApplication, Param_ApplicationID=174
+ -------------------------------------
+ System.Exception SqlException: The DELETE statement conflicted with the REFERENCE constraint "FK__Licenses__Applic__0F624AF8". The conflict occurred in database "DLMS", table "dbo.Licenses", column 'ApplicationID'.
+The statement has been terminated.
+-------------------------------------
+ 2025-08-21 22:25:31.5477 | ERROR | DatabaseLogger
+ Class: ApplicationDataAccess
+ Method: DeleteApplication
+ Exception in ApplicationDataAccess.DeleteApplication
+ Parameters:
+ Class=ApplicationDataAccess, Method=DeleteApplication, Param_ApplicationID=174
+ -------------------------------------
+ System.Exception SqlException: The DELETE statement conflicted with the REFERENCE constraint "FK__Licenses__Applic__0F624AF8". The conflict occurred in database "DLMS", table "dbo.Licenses", column 'ApplicationID'.
+The statement has been terminated.
+-------------------------------------
+ 2025-08-21 22:27:50.5868 | ERROR | DatabaseLogger
+ Class: LocalLicenseApplicationDataAccess
+ Method: DeleteLocalLicenseApplication
+ Exception in LocalLicenseApplicationDataAccess.DeleteLocalLicenseApplication
+ Parameters:
+ Class=LocalLicenseApplicationDataAccess, Method=DeleteLocalLicenseApplication, Param_LocalAppID=30
+ -------------------------------------
+ System.Exception SqlException: The DELETE statement conflicted with the REFERENCE constraint "FK__Licenses__Applic__0F624AF8". The conflict occurred in database "DLMS", table "dbo.Licenses", column 'ApplicationID'.
+The statement has been terminated.
+-------------------------------------
+ 2025-08-21 22:27:55.8686 | ERROR | DatabaseLogger
+ Class: LocalLicenseApplicationDataAccess
+ Method: DeleteLocalLicenseApplication
+ Exception in LocalLicenseApplicationDataAccess.DeleteLocalLicenseApplication
+ Parameters:
+ Class=LocalLicenseApplicationDataAccess, Method=DeleteLocalLicenseApplication, Param_LocalAppID=30
+ -------------------------------------
+ System.Exception SqlException: The DELETE statement conflicted with the REFERENCE constraint "FK__Licenses__Applic__0F624AF8". The conflict occurred in database "DLMS", table "dbo.Licenses", column 'ApplicationID'.
+The statement has been terminated.
+-------------------------------------
+ 2025-08-21 22:30:42.6958 | ERROR | DatabaseLogger
+ Class: LocalLicenseApplicationDataAccess
+ Method: DeleteLocalLicenseApplication
+ Exception in LocalLicenseApplicationDataAccess.DeleteLocalLicenseApplication
+ Parameters:
+ Class=LocalLicenseApplicationDataAccess, Method=DeleteLocalLicenseApplication, Param_LocalAppID=30
+ -------------------------------------
+ System.Exception SqlException: The DELETE statement conflicted with the REFERENCE constraint "FK__Licenses__Applic__0F624AF8". The conflict occurred in
+ database "DLMS", table "dbo.Licenses", column 'ApplicationID'.
+The statement has been terminated.
+-------------------------------------
+ 2025-08-21 22:35:49.4222 | ERROR | DatabaseLogger
+ Class: Application
+ Method: _RetakeTestApplication
+ Exception in Application._RetakeTestApplication
+ Parameters:
+ Class=Application, Method=_RetakeTestApplication, Param_CreatedByUserID=1, Param_AppType=تقديم طلب لتجديد رخصة, Param_enAppType=RenewLicenseApp
+ -------------------------------------
+ System.Exception InvalidConstraintException: The retake test application should be referenced to main application with type of new local license applicaiton
+-------------------------------------
+ 2025-08-21 22:36:14.6713 | ERROR | DatabaseLogger
+ Class: Application
+ Method: _RetakeTestApplication
+ Exception in Application._RetakeTestApplication
+ Parameters:
+ Class=Application, Method=_RetakeTestApplication, Param_CreatedByUserID=1, Param_AppType=تقديم طلب لتجديد رخصة, Param_enAppType=RenewLicenseApp
+ -------------------------------------
+ System.Exception InvalidConstraintException: The retake test application should be referenced to main application with type of new local license applicaiton
+-------------------------------------
+ 2025-08-21 22:59:16.2346 | ERROR | DatabaseLogger
+ Class: LicenseDataAccess
+ Method: GetPreviousLicenseID
+ Exception in LicenseDataAccess.GetPreviousLicenseID
+ Parameters:
+ Class=LicenseDataAccess, Method=GetPreviousLicenseID, Param_ApplicationID=177, Param_DriverID=8, Param_LicenseClassID=1, Param_IssueReasonID=2, Param_IssueDate=8/21/2025 10:59:12 PM, Param_ExpirationDate=8/21/2035 10:59:12 PM, Param_IsActive=True, Param_Notes=null, Param_PaidFees=15.0000, Param_CreatedByUserID=1
+ -------------------------------------
+ System.Exception SqlException: Violation of UNIQUE KEY constraint 'UQ__Licenses__C93A4F78CEA61E82'. Cannot insert duplicate key in object 'dbo.Licenses'. The duplicate key value is (177).
+The statement has been terminated.
+-------------------------------------
+ 2025-08-22 01:46:57.4142 | ERROR | DatabaseLogger
+ Class: LicenseDataAccess
+ Method: GetPreviousLicenseID
+ Exception in LicenseDataAccess.GetPreviousLicenseID
+ Parameters:
+ Class=LicenseDataAccess, Method=GetPreviousLicenseID, Param_ApplicationID=185, Param_DriverID=8, Param_LicenseClassID=3, Param_IssueReasonID=1, Param_IssueDate=8/22/2025 1:46:57 AM, Param_ExpirationDate=8/22/2031 1:46:57 AM, Param_IsActive=True, Param_Notes=null, Param_PaidFees=15.0000, Param_CreatedByUserID=1
+ -------------------------------------
+ System.Exception SqlException: Violation of UNIQUE KEY constraint 'UQ__Licenses__C93A4F78CEA61E82'. Cannot insert duplicate key in object 'dbo.Licenses'. The duplicate key value is (185).
+The statement has been terminated.
+-------------------------------------
+ 2025-08-22 21:50:33.2307 | ERROR | DatabaseLogger
+ Class: ApplicationDataAccess
+ Method: DeleteApplication
+ Exception in ApplicationDataAccess.DeleteApplication
+ Parameters:
+ Class=ApplicationDataAccess, Method=DeleteApplication, Param_ApplicationID=28
+ -------------------------------------
+ System.Exception SqlException: The DELETE statement conflicted with the REFERENCE constraint "FK_RetakeTestApplicationID". The conflict occurred in database "DLMS", table "dbo.TestAppointments", column 'RetakeTestApplicationID'.
+The statement has been terminated.
+-------------------------------------
+ 2025-08-22 21:50:39.8696 | ERROR | DatabaseLogger
+ Class: ApplicationDataAccess
+ Method: DeleteApplication
+ Exception in ApplicationDataAccess.DeleteApplication
+ Parameters:
+ Class=ApplicationDataAccess, Method=DeleteApplication, Param_ApplicationID=28
+ -------------------------------------
+ System.Exception SqlException: The DELETE statement conflicted with the REFERENCE constraint "FK_RetakeTestApplicationID". The conflict occurred in database "DLMS", table "dbo.TestAppointments", column 'RetakeTestApplicationID'.
+The statement has been terminated.

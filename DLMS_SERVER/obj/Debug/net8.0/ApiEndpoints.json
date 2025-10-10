@@ -1,0 +1,1670 @@
+[
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationController",
+    "Method": "CancelApplication",
+    "RelativePath": "api/Application/{id}/Cancel",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "byUserID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationController",
+    "Method": "DeleteApplication",
+    "RelativePath": "api/Application/{id}/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationController",
+    "Method": "IssueLicenseEndPoint",
+    "RelativePath": "api/Application/{id}/IssueLicense",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "obj",
+        "Type": "DLMS_SERVER.Controllers.ApplicationController\u002BIssueLicenseDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationController",
+    "Method": "AddNewApplication",
+    "RelativePath": "api/Application/Add New Application",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "app",
+        "Type": "DLMS_DTO.ApplicationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationController",
+    "Method": "GetAll",
+    "RelativePath": "api/Application/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationController",
+    "Method": "GetAll",
+    "RelativePath": "api/Application/Get All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationController",
+    "Method": "GetStatusTypes",
+    "RelativePath": "api/Application/Get-Application-Status-Types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationController",
+    "Method": "GetByID",
+    "RelativePath": "api/Application/ID/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationController",
+    "Method": "IsExist",
+    "RelativePath": "api/Application/IsExist/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationController",
+    "Method": "IsExistByPersonID",
+    "RelativePath": "api/Application/IsExistPersonID/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationController",
+    "Method": "IssueInternationalLicense",
+    "RelativePath": "api/Application/Issue International License",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "obj",
+        "Type": "DLMS_SERVER.Controllers.ApplicationController\u002BIssueLicenseDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationController",
+    "Method": "ReleaseLicense",
+    "RelativePath": "api/Application/Release License",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "DLMS_SERVER.Controllers.ApplicationController\u002BReleaseData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationController",
+    "Method": "GetByRequestID",
+    "RelativePath": "api/Application/Reqeust-ID/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationTypeController",
+    "Method": "EditTestType",
+    "RelativePath": "api/ApplicationType/{id}/edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "type",
+        "Type": "DLMS_BusinessLogicLayer.ApplicationType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationTypeController",
+    "Method": "GetByID",
+    "RelativePath": "api/ApplicationType/Find By ID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationTypeController",
+    "Method": "GetByName",
+    "RelativePath": "api/ApplicationType/Find By Name",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.ApplicationTypeController",
+    "Method": "GetAll",
+    "RelativePath": "api/ApplicationType/Get Types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.CountryController",
+    "Method": "GetAll",
+    "RelativePath": "api/Country/Countries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.CountryController",
+    "Method": "GetById",
+    "RelativePath": "api/Country/ID/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.CountryController",
+    "Method": "GetByName",
+    "RelativePath": "api/Country/Name/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.DetainedLicenseController",
+    "Method": "GetByID",
+    "RelativePath": "api/DetainedLicense/Get-By-ID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.DetainedLicenseController",
+    "Method": "GetByLicenseID",
+    "RelativePath": "api/DetainedLicense/Get-By-LicenseID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.DriverController",
+    "Method": "GetDriver",
+    "RelativePath": "api/Driver/Find",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "driverID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.DriverController",
+    "Method": "GetDriverByPersonID",
+    "RelativePath": "api/Driver/Find By PersonID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.DriverController",
+    "Method": "GetAllInternationalLicenses",
+    "RelativePath": "api/Driver/Get All International Licenses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "driverID",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "personID",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.DriverController",
+    "Method": "GetAllLicenses",
+    "RelativePath": "api/Driver/Get All Licenses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "driverID",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "personID",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.DriverController",
+    "Method": "GetAllDrivers",
+    "RelativePath": "api/Driver/Get-All-Drivers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.InternationalLicenseController",
+    "Method": "GetByID",
+    "RelativePath": "api/InternationalLicense/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LicenseController",
+    "Method": "DetainLicense",
+    "RelativePath": "api/License/{licenseID}/DetainLicense",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "licenseID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "detained",
+        "Type": "DLMS_SERVER.Controllers.LicenseController\u002BclsDetainLicense",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LicenseController",
+    "Method": "GetByID",
+    "RelativePath": "api/License/Find",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "licenseID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LicenseController",
+    "Method": "GetByAppID",
+    "RelativePath": "api/License/Find-By-Application-ID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LicenseClassController",
+    "Method": "EditTestType",
+    "RelativePath": "api/LicenseClass/{id}/edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "type",
+        "Type": "DLMS_BusinessLogicLayer.LicenseClass",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LicenseClassController",
+    "Method": "GetLicenseClass",
+    "RelativePath": "api/LicenseClass/{licenseClassID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "licenseClassID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LicenseClassController",
+    "Method": "GetLicenseClass",
+    "RelativePath": "api/LicenseClass/Find Licence Class By Name",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "classType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LicenseClassController",
+    "Method": "GetAll",
+    "RelativePath": "api/LicenseClass/Get All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LicenseClassController",
+    "Method": "GetAllWithDetails",
+    "RelativePath": "api/LicenseClass/Get All With Details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LicenseClassController",
+    "Method": "GetAll2",
+    "RelativePath": "api/LicenseClass/Get All2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LicenseIssueReasonController",
+    "Method": "GetLicenseClass",
+    "RelativePath": "api/LicenseIssueReason/Find Licence Class By Name",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "issueType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LicenseIssueReasonController",
+    "Method": "GetLicenseClass",
+    "RelativePath": "api/LicenseIssueReason/Find Licence Issue Reason By ID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "issueTypeID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LicenseIssueReasonController",
+    "Method": "GetAll",
+    "RelativePath": "api/LicenseIssueReason/Get All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LocalLicenseApplicationController",
+    "Method": "GetAppointmentByAppointmentID",
+    "RelativePath": "api/LocalLicenseApplication/{appID}/Get-Appointment/{appointmentID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "appointmentID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LocalLicenseApplicationController",
+    "Method": "GetTestAttemtps",
+    "RelativePath": "api/LocalLicenseApplication/{id}/Appointment-test-attempts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "testType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LocalLicenseApplicationController",
+    "Method": "CancelApplication",
+    "RelativePath": "api/LocalLicenseApplication/{id}/Cancel-Application",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "userID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LocalLicenseApplicationController",
+    "Method": "DeleteApplication",
+    "RelativePath": "api/LocalLicenseApplication/{id}/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LocalLicenseApplicationController",
+    "Method": "IssueLicenseEndPoint",
+    "RelativePath": "api/LocalLicenseApplication/{id}/IssueLicense",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "obj",
+        "Type": "DLMS_SERVER.Controllers.ApplicationController\u002BIssueLicenseDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LocalLicenseApplicationController",
+    "Method": "ResheduleTestAppointment",
+    "RelativePath": "api/LocalLicenseApplication/{id}/ResheduleTestAppointment/{appointmentID}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "appointmentID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "appointment",
+        "Type": "DLMS_SERVER.Controllers.LocalLicenseApplicationController\u002BSheduleAppointment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LocalLicenseApplicationController",
+    "Method": "SheduleTestAppointment",
+    "RelativePath": "api/LocalLicenseApplication/{id}/SheduleTestAppointment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "appointment",
+        "Type": "DLMS_SERVER.Controllers.LocalLicenseApplicationController\u002BSheduleAppointment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LocalLicenseApplicationController",
+    "Method": "TakeTest",
+    "RelativePath": "api/LocalLicenseApplication/{id}/TakeTest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "test",
+        "Type": "DLMS_SERVER.Controllers.LocalLicenseApplicationController\u002BTestTaken",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LocalLicenseApplicationController",
+    "Method": "GetAppointments",
+    "RelativePath": "api/LocalLicenseApplication/{localLicenseAppID}/Appointments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "localLicenseAppID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "testTypeID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LocalLicenseApplicationController",
+    "Method": "GetAppointments",
+    "RelativePath": "api/LocalLicenseApplication/{localLicenseAppID}/Appointments-List",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "localLicenseAppID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LocalLicenseApplicationController",
+    "Method": "AddNewApplication",
+    "RelativePath": "api/LocalLicenseApplication/Add New Application",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "app",
+        "Type": "DLMS_DTO.LocalLicenseApplicationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LocalLicenseApplicationController",
+    "Method": "GetAll",
+    "RelativePath": "api/LocalLicenseApplication/Get All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LocalLicenseApplicationController",
+    "Method": "GetByAppID",
+    "RelativePath": "api/LocalLicenseApplication/Get-By-Main-App-ID/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LocalLicenseApplicationController",
+    "Method": "GetByID",
+    "RelativePath": "api/LocalLicenseApplication/Get/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "DLMS_SERVER.Controllers.LoginController\u002BLoginRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.LoginController",
+    "Method": "RecoveryLogin",
+    "RelativePath": "api/Login/Recovery",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "DLMS_SERVER.Controllers.LoginController\u002BLoginRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.MunicipalityController",
+    "Method": "GetById",
+    "RelativePath": "api/Municipality/ID/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.MunicipalityController",
+    "Method": "GetAll",
+    "RelativePath": "api/Municipality/Municipalities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.MunicipalityController",
+    "Method": "GetByName",
+    "RelativePath": "api/Municipality/Name/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.PeopleController",
+    "Method": "GetContacts",
+    "RelativePath": "api/People/{id}/Contact Info",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.PeopleController",
+    "Method": "AddContact",
+    "RelativePath": "api/People/{id}/Create-Contact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "contact",
+        "Type": "DLMS_SERVER.Controllers.PeopleController\u002BContact",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.PeopleController",
+    "Method": "DeleteContact",
+    "RelativePath": "api/People/{id}/Delete Contact/{CaptionName}/{record}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "CaptionName",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "record",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.PeopleController",
+    "Method": "UpdateContact",
+    "RelativePath": "api/People/{id}/Update Contact/{oldValue}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "oldValue",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "contact",
+        "Type": "DLMS_SERVER.Controllers.PeopleController\u002BContact",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.PeopleController",
+    "Method": "GetPersonProfile",
+    "RelativePath": "api/People/{personID}/ProfilePicture",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.PeopleController",
+    "Method": "AddPerson",
+    "RelativePath": "api/People/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "person",
+        "Type": "DLMS_BusinessLogicLayer.Person",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.PeopleController",
+    "Method": "GetAll",
+    "RelativePath": "api/People/All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.PeopleController",
+    "Method": "DeletePerson",
+    "RelativePath": "api/People/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.PeopleController",
+    "Method": "GetPersonByID",
+    "RelativePath": "api/People/ID/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.PeopleController",
+    "Method": "GetPersonByID",
+    "RelativePath": "api/People/NationalNumber/{nationalNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nationalNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.PeopleController",
+    "Method": "UpdatePerson",
+    "RelativePath": "api/People/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "person",
+        "Type": "DLMS_BusinessLogicLayer.Person",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.PeopleController",
+    "Method": "UploadProfilePicture",
+    "RelativePath": "api/People/Upload/Image/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imageFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.RequestController",
+    "Method": "Approve",
+    "RelativePath": "api/Request/{id}/Approve",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "userID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.RequestController",
+    "Method": "Complete",
+    "RelativePath": "api/Request/{id}/Complete",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.RequestController",
+    "Method": "DeleteApplication",
+    "RelativePath": "api/Request/{id}/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.RequestController",
+    "Method": "Reject",
+    "RelativePath": "api/Request/{id}/Reject",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.RequestController",
+    "Method": "GetAll",
+    "RelativePath": "api/Request/{nationalNumber}/Get-All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nationalNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.RequestController",
+    "Method": "GetRequestState",
+    "RelativePath": "api/Request/{nationalNumber}/Request-State",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nationalNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.RequestController",
+    "Method": "AddNewRequest",
+    "RelativePath": "api/Request/Create-License-Replacement-Request",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DLMS_DTO.RequestDto2",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.RequestController",
+    "Method": "AddNewRequest",
+    "RelativePath": "api/Request/Create-License-Request",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DLMS_DTO.RequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.RequestController",
+    "Method": "GetGeneratedPdf",
+    "RelativePath": "api/Request/generate-pdf",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.RequestController",
+    "Method": "GetGeneratedPdfv2",
+    "RelativePath": "api/Request/generate-pdfv2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.RequestController",
+    "Method": "Get",
+    "RelativePath": "api/Request/Get All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.RequestController",
+    "Method": "GetByID",
+    "RelativePath": "api/Request/Get By ID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.RoleController",
+    "Method": "GetAll",
+    "RelativePath": "api/Role/All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.RoleController",
+    "Method": "GetByRoleTag",
+    "RelativePath": "api/Role/FindByRoleName/{roleTag}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleTag",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.TestTypeController",
+    "Method": "GetTestTypeByID",
+    "RelativePath": "api/TestType/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.TestTypeController",
+    "Method": "EditTestType",
+    "RelativePath": "api/TestType/{id}/edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "test",
+        "Type": "DLMS_DTO.TestTypeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.TestTypeController",
+    "Method": "GetTypes",
+    "RelativePath": "api/TestType/Types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.TestTypeController",
+    "Method": "GetTestTypes",
+    "RelativePath": "api/TestType/Types-Details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.UserController",
+    "Method": "GetUser",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.UserController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/User/{id}/Change-Password",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "newPassword",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.UserController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/User/{id}/Reset-Password",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "newPassword",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/User/{id}/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "user",
+        "Type": "DLMS_BusinessLogicLayer.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.UserController",
+    "Method": "AddNewUser",
+    "RelativePath": "api/User/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "DLMS_BusinessLogicLayer.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.UserController",
+    "Method": "GetAll",
+    "RelativePath": "api/User/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.UserController",
+    "Method": "GetUserByPerson",
+    "RelativePath": "api/User/ByPersonID/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.UserController",
+    "Method": "DeleteUserWithNoHistory",
+    "RelativePath": "api/User/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.UserController",
+    "Method": "IsExistByPersonID",
+    "RelativePath": "api/User/Exist/personId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.UserController",
+    "Method": "IsExistByID",
+    "RelativePath": "api/User/Exist/userId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.UserController",
+    "Method": "IsExist",
+    "RelativePath": "api/User/Exist/Username/{username}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.UserController",
+    "Method": "GetUserByUsername",
+    "RelativePath": "api/User/Find-By-Username/{username}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLMS_SERVER.Controllers.UserController",
+    "Method": "GetAllWithNoHistory",
+    "RelativePath": "api/User/with no history/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

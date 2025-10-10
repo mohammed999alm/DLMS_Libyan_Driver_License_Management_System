@@ -1,0 +1,36 @@
+C:\Users\nitro 5\source\repos\Driving license management system server\GlobalUtility\bin\Debug\net8.0\GlobalUtility.deps.json
+C:\Users\nitro 5\source\repos\Driving license management system server\GlobalUtility\bin\Debug\net8.0\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\GlobalUtility\bin\Debug\net8.0\GlobalUtility.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\GlobalUtility\obj\Debug\net8.0\GlobalUtility.csproj.AssemblyReference.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\GlobalUtility\obj\Debug\net8.0\GlobalUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro 5\source\repos\Driving license management system server\GlobalUtility\obj\Debug\net8.0\GlobalUtility.AssemblyInfoInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\GlobalUtility\obj\Debug\net8.0\GlobalUtility.AssemblyInfo.cs
+C:\Users\nitro 5\source\repos\Driving license management system server\GlobalUtility\obj\Debug\net8.0\GlobalUtility.csproj.CoreCompileInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\GlobalUtility\obj\Debug\net8.0\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\GlobalUtility\obj\Debug\net8.0\refint\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\GlobalUtility\obj\Debug\net8.0\GlobalUtility.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\GlobalUtility\obj\Debug\net8.0\ref\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\GlobalUtility\bin\Debug\net8.0\GlobalUtility.deps.json
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\GlobalUtility\bin\Debug\net8.0\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\GlobalUtility\bin\Debug\net8.0\GlobalUtility.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\GlobalUtility\obj\Debug\net8.0\GlobalUtility.csproj.AssemblyReference.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\GlobalUtility\obj\Debug\net8.0\GlobalUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\GlobalUtility\obj\Debug\net8.0\GlobalUtility.AssemblyInfoInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\GlobalUtility\obj\Debug\net8.0\GlobalUtility.AssemblyInfo.cs
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\GlobalUtility\obj\Debug\net8.0\GlobalUtility.csproj.CoreCompileInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\GlobalUtility\obj\Debug\net8.0\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\GlobalUtility\obj\Debug\net8.0\refint\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\GlobalUtility\obj\Debug\net8.0\GlobalUtility.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\GlobalUtility\obj\Debug\net8.0\ref\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\GlobalUtility\bin\Debug\net8.0\GlobalUtility.deps.json
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\GlobalUtility\bin\Debug\net8.0\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\GlobalUtility\bin\Debug\net8.0\GlobalUtility.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\GlobalUtility\obj\Debug\net8.0\GlobalUtility.csproj.AssemblyReference.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\GlobalUtility\obj\Debug\net8.0\GlobalUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\GlobalUtility\obj\Debug\net8.0\GlobalUtility.AssemblyInfoInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\GlobalUtility\obj\Debug\net8.0\GlobalUtility.AssemblyInfo.cs
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\GlobalUtility\obj\Debug\net8.0\GlobalUtility.csproj.CoreCompileInputs.cache
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\GlobalUtility\obj\Debug\net8.0\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\GlobalUtility\obj\Debug\net8.0\refint\GlobalUtility.dll
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\GlobalUtility\obj\Debug\net8.0\GlobalUtility.pdb
+C:\Users\nitro 5\source\repos\Driving license management system server\DLMS Server Latest Latest Version\Copy\DLMS Server Service Provider\GlobalUtility\obj\Debug\net8.0\ref\GlobalUtility.dll
